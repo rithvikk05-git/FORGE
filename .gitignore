@@ -1,1 +1,33 @@
+# Python and local test output
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
 
+# Local configuration and data
+.env
+.env.*
+!.env.example
+data/private/
+data/reference/*.json
+!data/reference/*.example.json
+runtime/
+qdrant_storage/
+
+# Local exports and database files
+dashboard/exports/
+output/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.sqlite-shm
+*.sqlite-wal
+*.eml
+*.xlsx
+!dashboard/templates/sales_opportunity_template.xlsx
+
+# Editor and operating system
+.vscode/
+.DS_Store

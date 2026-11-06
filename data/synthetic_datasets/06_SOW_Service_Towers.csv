@@ -1,0 +1,181 @@
+﻿SOW_ID,Contract_ID,Service_Tower_ID,Practice_Domain,Service_Capability,Service_Motion,Scope_Status,Service_Level,Coverage_Window,Committed_FTE,Commercial_Model,Tower_Status,Delivery_Owner_Group
+SOW-001,CTR-1001,TOWER-001,"Applications, Data & AI",MLOps,Run,In Scope,Gold,16x5,51,Fixed Price,Active,OWN-GRP-01
+SOW-002,CTR-1001,TOWER-002,Cloud,Platform Engineering,Consult,In Scope,Silver,16x5,48,Fixed Price,Active,OWN-GRP-02
+SOW-003,CTR-1001,TOWER-003,Core Enterprise & zCloud,CICS & MQ,Run,Limited Scope,Bronze,16x5,20,Fixed Price,Active,OWN-GRP-03
+SOW-004,CTR-1002,TOWER-004,Network & Edge,Wireless & LAN,Run,In Scope,Gold,8x5,28,Fixed Price,Active,OWN-GRP-04
+SOW-005,CTR-1002,TOWER-005,Digital Workplace,Teams Collaboration,Transform,In Scope,Bronze,8x5,45,Fixed Price,Active,OWN-GRP-05
+SOW-006,CTR-1002,TOWER-006,Security & Resiliency,SOC & SIEM,Operate,In Scope,Gold,16x5,55,Fixed Price,Active,OWN-GRP-06
+SOW-007,CTR-1003,TOWER-007,"Applications, Data & AI",Generative AI,Consult,Limited Scope,Gold,16x5,51,Fixed Price,Active,OWN-GRP-07
+SOW-008,CTR-1003,TOWER-008,Cloud,Public Cloud,Operate,In Scope,Bronze,16x5,53,Consumption,Planned,OWN-GRP-08
+SOW-009,CTR-1003,TOWER-009,Core Enterprise & zCloud,Batch Optimization,Transform,Limited Scope,Gold,16x5,54,Consumption,Active,OWN-GRP-09
+SOW-010,CTR-1004,TOWER-010,Network & Edge,SD-WAN,Transform,In Scope,Silver,16x5,50,T&M,Active,OWN-GRP-10
+SOW-011,CTR-1004,TOWER-011,Digital Workplace,ServiceNow Workplace,Consult,In Scope,Silver,24x7,62,T&M,Active,OWN-GRP-11
+SOW-012,CTR-1004,TOWER-012,Security & Resiliency,Identity & PAM,Operate,In Scope,Bronze,24x7,78,T&M,Active,OWN-GRP-12
+SOW-013,CTR-1005,TOWER-013,"Applications, Data & AI",Generative AI,Consult,In Scope,Silver,8x5,65,Fixed Price,Active,OWN-GRP-13
+SOW-014,CTR-1005,TOWER-014,Cloud,Cloud Migration,Transform,In Scope,Bronze,24x7,80,Fixed Price,Active,OWN-GRP-14
+SOW-015,CTR-1005,TOWER-015,Core Enterprise & zCloud,Batch Optimization,Run,In Scope,Gold,16x5,79,T&M,Active,OWN-GRP-15
+SOW-016,CTR-1006,TOWER-016,Network & Edge,Routing & Switching,Run,In Scope,Gold,24x7,17,T&M,Planned,OWN-GRP-16
+SOW-017,CTR-1006,TOWER-017,Digital Workplace,ServiceNow Workplace,Consult,In Scope,Bronze,24x7,65,T&M,Planned,OWN-GRP-17
+SOW-018,CTR-1006,TOWER-018,Security & Resiliency,Zero Trust,Transform,In Scope,Bronze,16x5,63,T&M,Active,OWN-GRP-18
+SOW-019,CTR-1007,TOWER-019,"Applications, Data & AI",Data Engineering,Operate,Limited Scope,Gold,8x5,34,Fixed Price,Active,OWN-GRP-01
+SOW-020,CTR-1007,TOWER-020,Cloud,Private Cloud,Consult,In Scope,Silver,8x5,39,Consumption,Active,OWN-GRP-02
+SOW-021,CTR-1007,TOWER-021,Core Enterprise & zCloud,Mainframe Modernization,Transform,In Scope,Bronze,16x5,24,T&M,Active,OWN-GRP-03
+SOW-022,CTR-1008,TOWER-022,Network & Edge,Network Operations,Operate,In Scope,Silver,24x7,54,Fixed Price,Active,OWN-GRP-04
+SOW-023,CTR-1008,TOWER-023,Digital Workplace,ServiceNow Workplace,Operate,In Scope,Bronze,24x7,73,Fixed Price,Active,OWN-GRP-05
+SOW-024,CTR-1008,TOWER-024,Security & Resiliency,Cyber Recovery,Run,In Scope,Gold,16x5,26,T&M,Active,OWN-GRP-06
+SOW-025,CTR-1009,TOWER-025,"Applications, Data & AI",Data Engineering,Consult,Limited Scope,Gold,24x7,18,T&M,Active,OWN-GRP-07
+SOW-026,CTR-1009,TOWER-026,Cloud,Public Cloud,Operate,In Scope,Bronze,24x7,44,Consumption,Planned,OWN-GRP-08
+SOW-027,CTR-1009,TOWER-027,Core Enterprise & zCloud,Mainframe Modernization,Run,In Scope,Bronze,24x7,9,T&M,Active,OWN-GRP-09
+SOW-028,CTR-1010,TOWER-028,Network & Edge,Network Operations,Operate,In Scope,Gold,16x5,28,Fixed Price,Active,OWN-GRP-10
+SOW-029,CTR-1010,TOWER-029,Digital Workplace,ServiceNow Workplace,Transform,Limited Scope,Bronze,16x5,78,Consumption,Active,OWN-GRP-11
+SOW-030,CTR-1010,TOWER-030,Security & Resiliency,Zero Trust,Run,Limited Scope,Gold,24x7,23,Consumption,Active,OWN-GRP-12
+SOW-031,CTR-1011,TOWER-031,"Applications, Data & AI",Data Engineering,Run,In Scope,Silver,16x5,34,T&M,Active,OWN-GRP-13
+SOW-032,CTR-1011,TOWER-032,Cloud,Public Cloud,Run,In Scope,Silver,16x5,77,Fixed Price,Planned,OWN-GRP-14
+SOW-033,CTR-1011,TOWER-033,Core Enterprise & zCloud,Db2 for z/OS,Transform,In Scope,Bronze,8x5,40,Consumption,Active,OWN-GRP-15
+SOW-034,CTR-1012,TOWER-034,Network & Edge,SD-WAN,Operate,In Scope,Gold,24x7,44,T&M,Planned,OWN-GRP-16
+SOW-035,CTR-1012,TOWER-035,Digital Workplace,Workplace Identity,Transform,Limited Scope,Gold,16x5,76,T&M,Active,OWN-GRP-17
+SOW-036,CTR-1012,TOWER-036,Security & Resiliency,Incident Response,Operate,Limited Scope,Silver,16x5,56,T&M,Active,OWN-GRP-18
+SOW-037,CTR-1013,TOWER-037,"Applications, Data & AI",MLOps,Transform,In Scope,Silver,24x7,15,T&M,Active,OWN-GRP-01
+SOW-038,CTR-1013,TOWER-038,Cloud,Public Cloud,Operate,Limited Scope,Bronze,24x7,58,Consumption,Active,OWN-GRP-02
+SOW-039,CTR-1013,TOWER-039,Core Enterprise & zCloud,IBM i,Consult,In Scope,Gold,16x5,25,T&M,Active,OWN-GRP-03
+SOW-040,CTR-1014,TOWER-040,Network & Edge,Edge & IoT,Consult,In Scope,Silver,24x7,31,T&M,Active,OWN-GRP-04
+SOW-041,CTR-1014,TOWER-041,Digital Workplace,Workplace Automation,Transform,In Scope,Bronze,8x5,66,Consumption,Planned,OWN-GRP-05
+SOW-042,CTR-1014,TOWER-042,Security & Resiliency,Cloud Security,Operate,Limited Scope,Bronze,8x5,63,Consumption,Planned,OWN-GRP-06
+SOW-043,CTR-1015,TOWER-043,"Applications, Data & AI",MLOps,Operate,Limited Scope,Bronze,24x7,34,Consumption,Active,OWN-GRP-07
+SOW-044,CTR-1015,TOWER-044,Cloud,Hybrid Cloud,Operate,Limited Scope,Bronze,16x5,64,T&M,Active,OWN-GRP-08
+SOW-045,CTR-1015,TOWER-045,Core Enterprise & zCloud,RACF Security,Consult,In Scope,Silver,16x5,41,Fixed Price,Planned,OWN-GRP-09
+SOW-046,CTR-1016,TOWER-046,Network & Edge,Network Operations,Consult,In Scope,Bronze,24x7,22,Fixed Price,Active,OWN-GRP-10
+SOW-047,CTR-1016,TOWER-047,Digital Workplace,Microsoft 365,Run,In Scope,Silver,16x5,51,Consumption,Planned,OWN-GRP-11
+SOW-048,CTR-1016,TOWER-048,Security & Resiliency,Identity & PAM,Run,In Scope,Silver,24x7,7,T&M,Active,OWN-GRP-12
+SOW-049,CTR-1017,TOWER-049,"Applications, Data & AI",Generative AI,Operate,In Scope,Silver,8x5,7,T&M,Active,OWN-GRP-13
+SOW-050,CTR-1017,TOWER-050,Cloud,FinOps,Run,In Scope,Gold,16x5,21,T&M,Active,OWN-GRP-14
+SOW-051,CTR-1017,TOWER-051,Core Enterprise & zCloud,Mainframe Modernization,Operate,Limited Scope,Silver,16x5,35,T&M,Active,OWN-GRP-15
+SOW-052,CTR-1018,TOWER-052,Network & Edge,Data Center Network,Run,In Scope,Gold,24x7,50,T&M,Active,OWN-GRP-16
+SOW-053,CTR-1018,TOWER-053,Digital Workplace,Microsoft 365,Run,In Scope,Silver,24x7,26,Consumption,Active,OWN-GRP-17
+SOW-054,CTR-1018,TOWER-054,Security & Resiliency,Zero Trust,Operate,Limited Scope,Bronze,24x7,62,Consumption,Planned,OWN-GRP-18
+SOW-055,CTR-1019,TOWER-055,"Applications, Data & AI",SAP Transformation,Operate,Limited Scope,Bronze,24x7,68,Consumption,Planned,OWN-GRP-01
+SOW-056,CTR-1019,TOWER-056,Cloud,FinOps,Transform,In Scope,Silver,16x5,65,Consumption,Active,OWN-GRP-02
+SOW-057,CTR-1019,TOWER-057,Core Enterprise & zCloud,zCloud,Operate,In Scope,Silver,16x5,54,Fixed Price,Planned,OWN-GRP-03
+SOW-058,CTR-1020,TOWER-058,Network & Edge,Routing & Switching,Consult,Limited Scope,Gold,24x7,43,Fixed Price,Planned,OWN-GRP-04
+SOW-059,CTR-1020,TOWER-059,Digital Workplace,Employee Experience,Transform,In Scope,Silver,24x7,25,Fixed Price,Planned,OWN-GRP-05
+SOW-060,CTR-1020,TOWER-060,Security & Resiliency,GRC,Transform,In Scope,Gold,8x5,70,Fixed Price,Active,OWN-GRP-06
+SOW-061,CTR-1021,TOWER-061,"Applications, Data & AI",Oracle Modernization,Transform,In Scope,Bronze,8x5,56,T&M,Active,OWN-GRP-07
+SOW-062,CTR-1021,TOWER-062,Cloud,Public Cloud,Transform,In Scope,Silver,24x7,24,Consumption,Active,OWN-GRP-08
+SOW-063,CTR-1021,TOWER-063,Core Enterprise & zCloud,z/OS Operations,Operate,In Scope,Bronze,16x5,45,Consumption,Active,OWN-GRP-09
+SOW-064,CTR-1022,TOWER-064,Network & Edge,Routing & Switching,Transform,Limited Scope,Gold,24x7,7,Consumption,Active,OWN-GRP-10
+SOW-065,CTR-1022,TOWER-065,Digital Workplace,Workplace Identity,Run,Limited Scope,Silver,8x5,40,Fixed Price,Planned,OWN-GRP-11
+SOW-066,CTR-1022,TOWER-066,Security & Resiliency,Zero Trust,Consult,Limited Scope,Bronze,8x5,68,T&M,Active,OWN-GRP-12
+SOW-067,CTR-1023,TOWER-067,"Applications, Data & AI",MLOps,Consult,Limited Scope,Bronze,16x5,14,T&M,Active,OWN-GRP-13
+SOW-068,CTR-1023,TOWER-068,Cloud,Platform Engineering,Operate,Limited Scope,Bronze,8x5,66,T&M,Active,OWN-GRP-14
+SOW-069,CTR-1023,TOWER-069,Core Enterprise & zCloud,RACF Security,Operate,In Scope,Gold,8x5,62,T&M,Active,OWN-GRP-15
+SOW-070,CTR-1024,TOWER-070,Network & Edge,Network Operations,Operate,Limited Scope,Silver,16x5,15,Fixed Price,Active,OWN-GRP-16
+SOW-071,CTR-1024,TOWER-071,Digital Workplace,Workplace Identity,Transform,Limited Scope,Gold,24x7,13,Fixed Price,Active,OWN-GRP-17
+SOW-072,CTR-1024,TOWER-072,Security & Resiliency,GRC,Transform,Limited Scope,Silver,8x5,62,Consumption,Active,OWN-GRP-18
+SOW-073,CTR-1025,TOWER-073,"Applications, Data & AI",Data Governance,Consult,In Scope,Bronze,24x7,57,Fixed Price,Planned,OWN-GRP-01
+SOW-074,CTR-1025,TOWER-074,Cloud,FinOps,Consult,Limited Scope,Bronze,8x5,39,Consumption,Active,OWN-GRP-02
+SOW-075,CTR-1025,TOWER-075,Core Enterprise & zCloud,Db2 for z/OS,Operate,In Scope,Bronze,16x5,13,T&M,Active,OWN-GRP-03
+SOW-076,CTR-1026,TOWER-076,Network & Edge,Edge & IoT,Transform,Limited Scope,Silver,8x5,17,T&M,Active,OWN-GRP-04
+SOW-077,CTR-1026,TOWER-077,Digital Workplace,Endpoint Management,Consult,In Scope,Gold,8x5,75,Consumption,Active,OWN-GRP-05
+SOW-078,CTR-1026,TOWER-078,Security & Resiliency,Cyber Recovery,Transform,Limited Scope,Bronze,16x5,38,Consumption,Active,OWN-GRP-06
+SOW-079,CTR-1027,TOWER-079,"Applications, Data & AI",Data Engineering,Consult,In Scope,Bronze,16x5,37,Consumption,Active,OWN-GRP-07
+SOW-080,CTR-1027,TOWER-080,Cloud,Platform Engineering,Transform,In Scope,Silver,8x5,29,T&M,Planned,OWN-GRP-08
+SOW-081,CTR-1027,TOWER-081,Core Enterprise & zCloud,Batch Optimization,Consult,In Scope,Bronze,16x5,15,Consumption,Active,OWN-GRP-09
+SOW-082,CTR-1028,TOWER-082,Network & Edge,Network Operations,Transform,In Scope,Bronze,24x7,22,T&M,Active,OWN-GRP-10
+SOW-083,CTR-1028,TOWER-083,Digital Workplace,ServiceNow Workplace,Operate,In Scope,Silver,8x5,63,Fixed Price,Active,OWN-GRP-11
+SOW-084,CTR-1028,TOWER-084,Security & Resiliency,Identity & PAM,Run,In Scope,Bronze,24x7,75,Consumption,Active,OWN-GRP-12
+SOW-085,CTR-1029,TOWER-085,"Applications, Data & AI",Generative AI,Consult,In Scope,Bronze,24x7,79,Consumption,Planned,OWN-GRP-13
+SOW-086,CTR-1029,TOWER-086,Cloud,Cloud Operations,Consult,Limited Scope,Bronze,24x7,31,T&M,Active,OWN-GRP-14
+SOW-087,CTR-1029,TOWER-087,Core Enterprise & zCloud,Batch Optimization,Consult,In Scope,Gold,16x5,55,Fixed Price,Active,OWN-GRP-15
+SOW-088,CTR-1030,TOWER-088,Network & Edge,Network Automation,Consult,In Scope,Silver,24x7,31,T&M,Active,OWN-GRP-16
+SOW-089,CTR-1030,TOWER-089,Digital Workplace,ServiceNow Workplace,Consult,In Scope,Silver,24x7,35,Fixed Price,Active,OWN-GRP-17
+SOW-090,CTR-1030,TOWER-090,Security & Resiliency,Incident Response,Operate,Limited Scope,Gold,24x7,27,T&M,Active,OWN-GRP-18
+SOW-091,CTR-1031,TOWER-091,"Applications, Data & AI",Oracle Modernization,Transform,In Scope,Gold,24x7,75,T&M,Planned,OWN-GRP-01
+SOW-092,CTR-1031,TOWER-092,Cloud,Private Cloud,Consult,In Scope,Bronze,24x7,68,T&M,Active,OWN-GRP-02
+SOW-093,CTR-1031,TOWER-093,Core Enterprise & zCloud,Mainframe Modernization,Run,In Scope,Bronze,24x7,53,Fixed Price,Active,OWN-GRP-03
+SOW-094,CTR-1032,TOWER-094,Network & Edge,SD-WAN,Consult,Limited Scope,Silver,24x7,54,Consumption,Active,OWN-GRP-04
+SOW-095,CTR-1032,TOWER-095,Digital Workplace,Workplace Identity,Operate,In Scope,Bronze,8x5,26,T&M,Active,OWN-GRP-05
+SOW-096,CTR-1032,TOWER-096,Security & Resiliency,SOC & SIEM,Transform,In Scope,Silver,24x7,23,Consumption,Planned,OWN-GRP-06
+SOW-097,CTR-1033,TOWER-097,"Applications, Data & AI",SAP Transformation,Run,In Scope,Bronze,24x7,55,T&M,Planned,OWN-GRP-07
+SOW-098,CTR-1033,TOWER-098,Cloud,Cloud Operations,Operate,In Scope,Silver,24x7,19,Consumption,Active,OWN-GRP-08
+SOW-099,CTR-1033,TOWER-099,Core Enterprise & zCloud,z/OS Operations,Consult,In Scope,Silver,16x5,57,Consumption,Active,OWN-GRP-09
+SOW-100,CTR-1034,TOWER-100,Network & Edge,Edge & IoT,Consult,Limited Scope,Bronze,16x5,38,Consumption,Planned,OWN-GRP-10
+SOW-101,CTR-1034,TOWER-101,Digital Workplace,Workplace Automation,Transform,Limited Scope,Gold,16x5,63,T&M,Planned,OWN-GRP-11
+SOW-102,CTR-1034,TOWER-102,Security & Resiliency,Vulnerability Management,Transform,Limited Scope,Bronze,24x7,34,Fixed Price,Planned,OWN-GRP-12
+SOW-103,CTR-1035,TOWER-103,"Applications, Data & AI",MLOps,Consult,Limited Scope,Gold,24x7,76,T&M,Active,OWN-GRP-13
+SOW-104,CTR-1035,TOWER-104,Cloud,FinOps,Consult,In Scope,Gold,8x5,70,Consumption,Active,OWN-GRP-14
+SOW-105,CTR-1035,TOWER-105,Core Enterprise & zCloud,Db2 for z/OS,Consult,In Scope,Silver,24x7,31,Fixed Price,Planned,OWN-GRP-15
+SOW-106,CTR-1036,TOWER-106,Network & Edge,SD-WAN,Run,In Scope,Bronze,16x5,20,Fixed Price,Active,OWN-GRP-16
+SOW-107,CTR-1036,TOWER-107,Digital Workplace,ServiceNow Workplace,Consult,In Scope,Silver,16x5,34,Consumption,Active,OWN-GRP-17
+SOW-108,CTR-1036,TOWER-108,Security & Resiliency,Cyber Recovery,Transform,In Scope,Silver,8x5,50,Fixed Price,Planned,OWN-GRP-18
+SOW-109,CTR-1037,TOWER-109,"Applications, Data & AI",Oracle Modernization,Run,In Scope,Bronze,24x7,19,T&M,Active,OWN-GRP-01
+SOW-110,CTR-1037,TOWER-110,Cloud,Platform Engineering,Transform,Limited Scope,Bronze,16x5,15,T&M,Active,OWN-GRP-02
+SOW-111,CTR-1037,TOWER-111,Core Enterprise & zCloud,CICS & MQ,Transform,Limited Scope,Bronze,24x7,56,T&M,Planned,OWN-GRP-03
+SOW-112,CTR-1038,TOWER-112,Network & Edge,Network Automation,Operate,Limited Scope,Bronze,16x5,53,Consumption,Active,OWN-GRP-04
+SOW-113,CTR-1038,TOWER-113,Digital Workplace,Workplace Automation,Consult,In Scope,Silver,8x5,67,Fixed Price,Active,OWN-GRP-05
+SOW-114,CTR-1038,TOWER-114,Security & Resiliency,Incident Response,Consult,Limited Scope,Gold,16x5,74,Fixed Price,Active,OWN-GRP-06
+SOW-115,CTR-1039,TOWER-115,"Applications, Data & AI",Data Governance,Run,In Scope,Gold,16x5,67,T&M,Active,OWN-GRP-07
+SOW-116,CTR-1039,TOWER-116,Cloud,Private Cloud,Operate,In Scope,Bronze,8x5,64,T&M,Active,OWN-GRP-08
+SOW-117,CTR-1039,TOWER-117,Core Enterprise & zCloud,Mainframe Modernization,Run,In Scope,Gold,8x5,9,Consumption,Active,OWN-GRP-09
+SOW-118,CTR-1040,TOWER-118,Network & Edge,Data Center Network,Operate,In Scope,Bronze,24x7,57,T&M,Active,OWN-GRP-10
+SOW-119,CTR-1040,TOWER-119,Digital Workplace,Workplace Automation,Transform,Limited Scope,Bronze,8x5,17,T&M,Active,OWN-GRP-11
+SOW-120,CTR-1040,TOWER-120,Security & Resiliency,SOC & SIEM,Operate,In Scope,Silver,8x5,29,Fixed Price,Active,OWN-GRP-12
+SOW-121,CTR-1041,TOWER-121,"Applications, Data & AI",Data Engineering,Consult,In Scope,Silver,24x7,16,Consumption,Active,OWN-GRP-13
+SOW-122,CTR-1041,TOWER-122,Cloud,Platform Engineering,Operate,Limited Scope,Gold,16x5,55,Fixed Price,Active,OWN-GRP-14
+SOW-123,CTR-1041,TOWER-123,Core Enterprise & zCloud,IBM i,Run,In Scope,Gold,8x5,42,T&M,Active,OWN-GRP-15
+SOW-124,CTR-1042,TOWER-124,Network & Edge,Edge & IoT,Run,In Scope,Silver,24x7,50,Fixed Price,Active,OWN-GRP-16
+SOW-125,CTR-1042,TOWER-125,Digital Workplace,Teams Collaboration,Operate,In Scope,Bronze,8x5,51,Fixed Price,Active,OWN-GRP-17
+SOW-126,CTR-1042,TOWER-126,Security & Resiliency,Cyber Recovery,Consult,In Scope,Gold,24x7,6,Consumption,Active,OWN-GRP-18
+SOW-127,CTR-1043,TOWER-127,"Applications, Data & AI",Data Governance,Operate,In Scope,Gold,16x5,59,T&M,Planned,OWN-GRP-01
+SOW-128,CTR-1043,TOWER-128,Cloud,Public Cloud,Run,Limited Scope,Gold,16x5,48,Consumption,Planned,OWN-GRP-02
+SOW-129,CTR-1043,TOWER-129,Core Enterprise & zCloud,z/OS Operations,Operate,In Scope,Silver,16x5,47,Fixed Price,Active,OWN-GRP-03
+SOW-130,CTR-1044,TOWER-130,Network & Edge,SD-WAN,Consult,Limited Scope,Silver,24x7,17,Fixed Price,Planned,OWN-GRP-04
+SOW-131,CTR-1044,TOWER-131,Digital Workplace,Workplace Automation,Run,In Scope,Bronze,24x7,51,Consumption,Active,OWN-GRP-05
+SOW-132,CTR-1044,TOWER-132,Security & Resiliency,Incident Response,Transform,In Scope,Bronze,24x7,77,T&M,Active,OWN-GRP-06
+SOW-133,CTR-1045,TOWER-133,"Applications, Data & AI",Data Engineering,Consult,Limited Scope,Silver,8x5,36,Consumption,Planned,OWN-GRP-07
+SOW-134,CTR-1045,TOWER-134,Cloud,Cloud Operations,Run,Limited Scope,Silver,24x7,31,Consumption,Planned,OWN-GRP-08
+SOW-135,CTR-1045,TOWER-135,Core Enterprise & zCloud,RACF Security,Run,In Scope,Gold,24x7,39,Consumption,Planned,OWN-GRP-09
+SOW-136,CTR-1046,TOWER-136,Network & Edge,Data Center Network,Operate,In Scope,Silver,8x5,5,Consumption,Active,OWN-GRP-10
+SOW-137,CTR-1046,TOWER-137,Digital Workplace,Workplace Identity,Consult,In Scope,Bronze,8x5,73,Consumption,Active,OWN-GRP-11
+SOW-138,CTR-1046,TOWER-138,Security & Resiliency,GRC,Consult,Limited Scope,Silver,16x5,41,Fixed Price,Active,OWN-GRP-12
+SOW-139,CTR-1047,TOWER-139,"Applications, Data & AI",Integration & APIs,Run,Limited Scope,Bronze,16x5,6,T&M,Active,OWN-GRP-13
+SOW-140,CTR-1047,TOWER-140,Cloud,DevOps Automation,Operate,In Scope,Gold,8x5,12,Consumption,Planned,OWN-GRP-14
+SOW-141,CTR-1047,TOWER-141,Core Enterprise & zCloud,z/OS Operations,Run,Limited Scope,Bronze,24x7,42,Consumption,Active,OWN-GRP-15
+SOW-142,CTR-1048,TOWER-142,Network & Edge,Data Center Network,Operate,In Scope,Silver,8x5,63,Consumption,Planned,OWN-GRP-16
+SOW-143,CTR-1048,TOWER-143,Digital Workplace,Endpoint Management,Run,In Scope,Bronze,16x5,40,Consumption,Planned,OWN-GRP-17
+SOW-144,CTR-1048,TOWER-144,Security & Resiliency,Zero Trust,Consult,Limited Scope,Silver,8x5,60,T&M,Planned,OWN-GRP-18
+SOW-145,CTR-1049,TOWER-145,"Applications, Data & AI",Data Engineering,Transform,Limited Scope,Bronze,16x5,39,T&M,Active,OWN-GRP-01
+SOW-146,CTR-1049,TOWER-146,Cloud,Cloud Operations,Transform,In Scope,Silver,24x7,8,T&M,Active,OWN-GRP-02
+SOW-147,CTR-1049,TOWER-147,Core Enterprise & zCloud,RACF Security,Transform,Limited Scope,Bronze,16x5,59,Fixed Price,Active,OWN-GRP-03
+SOW-148,CTR-1050,TOWER-148,Network & Edge,Cloud Networking,Run,In Scope,Bronze,24x7,22,Fixed Price,Active,OWN-GRP-04
+SOW-149,CTR-1050,TOWER-149,Digital Workplace,Teams Collaboration,Run,Limited Scope,Bronze,16x5,20,T&M,Planned,OWN-GRP-05
+SOW-150,CTR-1050,TOWER-150,Security & Resiliency,Cyber Recovery,Transform,In Scope,Gold,8x5,67,T&M,Planned,OWN-GRP-06
+SOW-151,CTR-1051,TOWER-151,"Applications, Data & AI",Oracle Modernization,Run,In Scope,Gold,16x5,31,Fixed Price,Planned,OWN-GRP-07
+SOW-152,CTR-1051,TOWER-152,Cloud,FinOps,Operate,In Scope,Gold,16x5,47,T&M,Planned,OWN-GRP-08
+SOW-153,CTR-1051,TOWER-153,Core Enterprise & zCloud,IBM i,Operate,In Scope,Bronze,24x7,26,Consumption,Planned,OWN-GRP-09
+SOW-154,CTR-1052,TOWER-154,Network & Edge,Routing & Switching,Run,In Scope,Bronze,16x5,14,Consumption,Active,OWN-GRP-10
+SOW-155,CTR-1052,TOWER-155,Digital Workplace,ServiceNow Workplace,Run,In Scope,Silver,16x5,50,Consumption,Active,OWN-GRP-11
+SOW-156,CTR-1052,TOWER-156,Security & Resiliency,Zero Trust,Operate,In Scope,Bronze,8x5,9,T&M,Active,OWN-GRP-12
+SOW-157,CTR-1053,TOWER-157,"Applications, Data & AI",MLOps,Transform,In Scope,Silver,8x5,11,Consumption,Active,OWN-GRP-13
+SOW-158,CTR-1053,TOWER-158,Cloud,Public Cloud,Transform,Limited Scope,Bronze,16x5,30,T&M,Planned,OWN-GRP-14
+SOW-159,CTR-1053,TOWER-159,Core Enterprise & zCloud,IBM i,Operate,In Scope,Bronze,24x7,80,Fixed Price,Active,OWN-GRP-15
+SOW-160,CTR-1054,TOWER-160,Network & Edge,Routing & Switching,Consult,In Scope,Silver,24x7,39,T&M,Planned,OWN-GRP-16
+SOW-161,CTR-1054,TOWER-161,Digital Workplace,Workplace Automation,Transform,Limited Scope,Silver,8x5,66,Consumption,Planned,OWN-GRP-17
+SOW-162,CTR-1054,TOWER-162,Security & Resiliency,Identity & PAM,Operate,Limited Scope,Bronze,16x5,36,Consumption,Planned,OWN-GRP-18
+SOW-163,CTR-1055,TOWER-163,"Applications, Data & AI",Generative AI,Transform,In Scope,Bronze,16x5,76,Fixed Price,Active,OWN-GRP-01
+SOW-164,CTR-1055,TOWER-164,Cloud,Platform Engineering,Run,In Scope,Bronze,24x7,72,Consumption,Planned,OWN-GRP-02
+SOW-165,CTR-1055,TOWER-165,Core Enterprise & zCloud,z/OS Operations,Transform,In Scope,Silver,24x7,33,T&M,Active,OWN-GRP-03
+SOW-166,CTR-1056,TOWER-166,Network & Edge,Network Operations,Consult,In Scope,Gold,24x7,52,Fixed Price,Active,OWN-GRP-04
+SOW-167,CTR-1056,TOWER-167,Digital Workplace,Employee Experience,Consult,In Scope,Gold,8x5,31,Fixed Price,Active,OWN-GRP-05
+SOW-168,CTR-1056,TOWER-168,Security & Resiliency,Identity & PAM,Operate,Limited Scope,Silver,24x7,61,T&M,Active,OWN-GRP-06
+SOW-169,CTR-1057,TOWER-169,"Applications, Data & AI",Data Governance,Operate,Limited Scope,Gold,24x7,10,Consumption,Active,OWN-GRP-07
+SOW-170,CTR-1057,TOWER-170,Cloud,Platform Engineering,Consult,In Scope,Bronze,8x5,77,T&M,Active,OWN-GRP-08
+SOW-171,CTR-1057,TOWER-171,Core Enterprise & zCloud,RACF Security,Run,In Scope,Silver,8x5,62,Fixed Price,Active,OWN-GRP-09
+SOW-172,CTR-1058,TOWER-172,Network & Edge,Data Center Network,Run,In Scope,Bronze,8x5,40,Consumption,Active,OWN-GRP-10
+SOW-173,CTR-1058,TOWER-173,Digital Workplace,Endpoint Management,Operate,Limited Scope,Gold,8x5,35,Consumption,Active,OWN-GRP-11
+SOW-174,CTR-1058,TOWER-174,Security & Resiliency,SOC & SIEM,Operate,In Scope,Silver,24x7,46,T&M,Active,OWN-GRP-12
+SOW-175,CTR-1059,TOWER-175,"Applications, Data & AI",Integration & APIs,Transform,In Scope,Bronze,24x7,80,T&M,Active,OWN-GRP-13
+SOW-176,CTR-1059,TOWER-176,Cloud,Private Cloud,Transform,Limited Scope,Gold,16x5,51,Fixed Price,Planned,OWN-GRP-14
+SOW-177,CTR-1059,TOWER-177,Core Enterprise & zCloud,Batch Optimization,Run,In Scope,Gold,24x7,48,Fixed Price,Planned,OWN-GRP-15
+SOW-178,CTR-1060,TOWER-178,Network & Edge,Routing & Switching,Run,In Scope,Bronze,16x5,65,Consumption,Active,OWN-GRP-16
+SOW-179,CTR-1060,TOWER-179,Digital Workplace,Microsoft 365,Transform,In Scope,Gold,24x7,61,Fixed Price,Active,OWN-GRP-17
+SOW-180,CTR-1060,TOWER-180,Security & Resiliency,Incident Response,Consult,In Scope,Silver,8x5,43,Fixed Price,Planned,OWN-GRP-18

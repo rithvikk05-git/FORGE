@@ -1,0 +1,151 @@
+﻿Project_ID,Customer_Synthetic,Industry,Practice_Domain,Capability_Area,Project_Type,Start_Date,End_Date,Outcome_Status,Contract_Value_USD,Validated_Annual_Value_USD,Delivery_Duration_Weeks,SLA_Result,Customer_Satisfaction_5,Reuse_Status,Solution_Pattern_ID
+PRJ-001,Synthetic Customer 01,Banking,"Applications, Data & AI",Data Engineering,Modernization,2023-04-04,2023-09-03,Operationalized,3607123,695405,45,Partially Met,4,Reusable with Conditions,Pattern-001
+PRJ-002,Synthetic Customer 02,Insurance,Cloud,Cloud Migration,Automation,2024-04-28,2025-08-11,Completed,3710763,239171,62,Partially Met,3,Reusable with Conditions,Pattern-002
+PRJ-003,Synthetic Customer 03,Healthcare,Core Enterprise & zCloud,Db2 for z/OS,Resilience,2023-06-27,2024-04-28,Completed,1412741,332786,114,Exceeded,3,Reusable,Pattern-003
+PRJ-004,Synthetic Customer 04,Government,Network & Edge,Wireless & LAN,Cost Optimization,2022-05-12,2022-09-25,Completed,419981,875940,37,Exceeded,4,Reusable with Conditions,Pattern-004
+PRJ-005,Synthetic Customer 05,Retail,Digital Workplace,ServiceNow Workplace,Automation,2022-09-06,2023-03-02,Operationalized,1067494,664835,94,Met,4,Reusable,Pattern-005
+PRJ-006,Synthetic Customer 06,Manufacturing,Security & Resiliency,Identity & PAM,Consolidation,2022-05-01,2023-03-12,Completed,4686612,342615,118,Partially Met,3,Reusable with Conditions,Pattern-006
+PRJ-007,Synthetic Customer 07,Energy & Utilities,"Applications, Data & AI",Oracle Modernization,Modernization,2024-03-01,2024-08-27,Completed,2207695,560135,99,Exceeded,3,Reusable with Conditions,Pattern-007
+PRJ-008,Synthetic Customer 08,Telecommunications,Cloud,Public Cloud,Consolidation,2022-03-07,2023-05-01,Operationalized,2874801,1097063,86,Met,5,Reference Only,Pattern-008
+PRJ-009,Synthetic Customer 09,Transportation,Core Enterprise & zCloud,IBM i,Modernization,2024-12-08,2026-02-06,Completed,3995594,1764981,112,Exceeded,3,Reference Only,Pattern-009
+PRJ-010,Synthetic Customer 10,Technology,Network & Edge,Cloud Networking,Automation,2023-10-28,2024-06-27,Operationalized,764259,1343829,85,Exceeded,4,Reference Only,Pattern-010
+PRJ-011,Synthetic Customer 11,Banking,Digital Workplace,Workplace Automation,Modernization,2022-07-22,2022-11-04,Completed,2486021,1013143,114,Met,5,Reusable with Conditions,Pattern-011
+PRJ-012,Synthetic Customer 12,Insurance,Security & Resiliency,GRC,Modernization,2023-10-05,2024-06-24,Operationalized,1870979,700846,43,Exceeded,4,Reusable with Conditions,Pattern-012
+PRJ-013,Synthetic Customer 13,Healthcare,"Applications, Data & AI",Data Engineering,Modernization,2024-12-06,2025-09-02,Operationalized,3403747,252898,53,Exceeded,3,Reusable with Conditions,Pattern-013
+PRJ-014,Synthetic Customer 14,Government,Cloud,Cloud Migration,Resilience,2024-08-21,2025-05-13,Completed,723356,1209579,32,Exceeded,4,Reusable,Pattern-014
+PRJ-015,Synthetic Customer 15,Retail,Core Enterprise & zCloud,RACF Security,Cost Optimization,2022-08-05,2023-11-14,Operationalized,2339085,1791174,8,Partially Met,4,Reference Only,Pattern-015
+PRJ-016,Synthetic Customer 16,Manufacturing,Network & Edge,SD-WAN,Cost Optimization,2023-03-19,2023-09-14,Operationalized,1839451,969861,112,Partially Met,5,Reusable,Pattern-016
+PRJ-017,Synthetic Customer 17,Energy & Utilities,Digital Workplace,Endpoint Management,Consolidation,2024-04-14,2024-11-04,Completed,772845,288883,33,Exceeded,4,Reusable with Conditions,Pattern-017
+PRJ-018,Synthetic Customer 18,Telecommunications,Security & Resiliency,SOC & SIEM,Modernization,2025-02-26,2026-01-23,Completed,1654291,184851,37,Exceeded,5,Reusable with Conditions,Pattern-018
+PRJ-019,Synthetic Customer 19,Transportation,"Applications, Data & AI",Integration & APIs,Consolidation,2023-08-09,2023-10-14,Completed,4791999,159452,18,Met,3,Reusable,Pattern-019
+PRJ-020,Synthetic Customer 20,Technology,Cloud,Private Cloud,Cost Optimization,2022-11-08,2023-08-26,Completed,1166575,899270,79,Partially Met,5,Reusable,Pattern-020
+PRJ-021,Synthetic Customer 21,Banking,Core Enterprise & zCloud,Db2 for z/OS,Automation,2024-09-14,2025-04-04,Completed,478716,1547843,92,Met,4,Reusable,Pattern-021
+PRJ-022,Synthetic Customer 22,Insurance,Network & Edge,Edge & IoT,Consolidation,2022-07-31,2023-12-29,Operationalized,2487305,164431,58,Exceeded,4,Reusable with Conditions,Pattern-022
+PRJ-023,Synthetic Customer 23,Healthcare,Digital Workplace,Endpoint Management,Modernization,2022-07-13,2023-03-03,Completed,2240102,739952,36,Met,4,Reusable,Pattern-023
+PRJ-024,Synthetic Customer 24,Government,Security & Resiliency,Cloud Security,Cost Optimization,2023-04-14,2023-06-17,Completed,2459279,1374954,32,Exceeded,3,Reusable,Pattern-024
+PRJ-025,Synthetic Customer 25,Retail,"Applications, Data & AI",Generative AI,Cost Optimization,2022-05-17,2023-08-19,Completed,5129172,938531,63,Partially Met,4,Reusable with Conditions,Pattern-025
+PRJ-026,Synthetic Customer 26,Manufacturing,Cloud,Hybrid Cloud,Resilience,2023-12-27,2024-10-17,Completed,1440437,1710888,65,Exceeded,4,Reusable,Pattern-026
+PRJ-027,Synthetic Customer 27,Energy & Utilities,Core Enterprise & zCloud,IBM i,Resilience,2025-04-02,2025-10-29,Completed,3743417,738536,25,Partially Met,5,Reusable,Pattern-027
+PRJ-028,Synthetic Customer 28,Telecommunications,Network & Edge,Cloud Networking,Resilience,2024-08-24,2025-11-24,Operationalized,5332831,1324835,107,Met,4,Reusable with Conditions,Pattern-028
+PRJ-029,Synthetic Customer 29,Transportation,Digital Workplace,ServiceNow Workplace,Modernization,2024-06-17,2025-09-03,Operationalized,4230110,1342093,13,Exceeded,5,Reusable with Conditions,Pattern-029
+PRJ-030,Synthetic Customer 30,Technology,Security & Resiliency,Zero Trust,Cost Optimization,2023-09-06,2024-12-08,Operationalized,5400672,1225615,120,Exceeded,3,Reusable with Conditions,Pattern-030
+PRJ-031,Synthetic Customer 31,Banking,"Applications, Data & AI",MLOps,Cost Optimization,2024-01-24,2025-01-09,Completed,2568525,1168201,70,Partially Met,3,Reference Only,Pattern-031
+PRJ-032,Synthetic Customer 32,Insurance,Cloud,Hybrid Cloud,Automation,2023-08-12,2023-11-05,Operationalized,3037535,1387547,90,Exceeded,3,Reusable,Pattern-032
+PRJ-033,Synthetic Customer 33,Healthcare,Core Enterprise & zCloud,z/OS Operations,Resilience,2025-03-08,2025-09-27,Operationalized,5878684,981913,73,Met,3,Reference Only,Pattern-033
+PRJ-034,Synthetic Customer 34,Government,Network & Edge,Network Operations,Cost Optimization,2022-09-24,2023-09-17,Operationalized,4427494,374279,79,Exceeded,4,Reusable with Conditions,Pattern-034
+PRJ-035,Synthetic Customer 35,Retail,Digital Workplace,Microsoft 365,Resilience,2022-08-14,2023-10-25,Completed,2103851,817154,48,Exceeded,4,Reusable with Conditions,Pattern-035
+PRJ-036,Synthetic Customer 36,Manufacturing,Security & Resiliency,Cyber Recovery,Cost Optimization,2023-04-25,2023-11-21,Operationalized,4783309,1741663,77,Partially Met,5,Reusable,Pattern-036
+PRJ-037,Synthetic Customer 37,Energy & Utilities,"Applications, Data & AI",SAP Transformation,Cost Optimization,2023-08-24,2023-11-03,Completed,2027340,139883,104,Met,5,Reusable,Pattern-037
+PRJ-038,Synthetic Customer 38,Telecommunications,Cloud,Platform Engineering,Automation,2023-07-16,2024-08-07,Completed,2564815,1239930,49,Exceeded,3,Reusable,Pattern-038
+PRJ-039,Synthetic Customer 39,Transportation,Core Enterprise & zCloud,CICS & MQ,Consolidation,2022-07-28,2022-11-08,Operationalized,3627130,510861,8,Exceeded,3,Reference Only,Pattern-039
+PRJ-040,Synthetic Customer 40,Technology,Network & Edge,Wireless & LAN,Resilience,2022-06-26,2023-07-14,Completed,1428224,896548,99,Partially Met,5,Reusable,Pattern-040
+PRJ-041,Synthetic Customer 41,Banking,Digital Workplace,Workplace Automation,Modernization,2023-06-18,2024-07-01,Completed,1804208,1617702,45,Exceeded,3,Reusable with Conditions,Pattern-001
+PRJ-042,Synthetic Customer 42,Insurance,Security & Resiliency,Zero Trust,Consolidation,2022-03-13,2023-08-02,Completed,5044156,389204,37,Met,3,Reusable,Pattern-002
+PRJ-043,Synthetic Customer 43,Healthcare,"Applications, Data & AI",Data Governance,Automation,2024-09-15,2026-01-25,Completed,4639226,691381,32,Partially Met,5,Reference Only,Pattern-003
+PRJ-044,Synthetic Customer 44,Government,Cloud,Cloud Operations,Consolidation,2023-03-21,2023-06-12,Completed,1391363,1411699,89,Exceeded,4,Reusable with Conditions,Pattern-004
+PRJ-045,Synthetic Customer 45,Retail,Core Enterprise & zCloud,zCloud,Consolidation,2022-03-16,2022-05-17,Completed,1520670,1524986,81,Partially Met,5,Reference Only,Pattern-005
+PRJ-046,Synthetic Customer 46,Manufacturing,Network & Edge,Routing & Switching,Cost Optimization,2022-11-20,2023-09-01,Completed,5731829,490713,67,Partially Met,3,Reusable,Pattern-006
+PRJ-047,Synthetic Customer 47,Energy & Utilities,Digital Workplace,Workplace Identity,Modernization,2022-02-10,2023-05-06,Completed,5542787,472585,44,Partially Met,5,Reference Only,Pattern-007
+PRJ-048,Synthetic Customer 48,Telecommunications,Security & Resiliency,GRC,Consolidation,2022-11-18,2023-08-10,Completed,585779,147981,60,Partially Met,3,Reusable with Conditions,Pattern-008
+PRJ-049,Synthetic Customer 49,Transportation,"Applications, Data & AI",Data Governance,Resilience,2024-07-06,2025-05-12,Completed,1347943,1626883,8,Partially Met,3,Reusable with Conditions,Pattern-009
+PRJ-050,Synthetic Customer 50,Technology,Cloud,Cloud Migration,Modernization,2024-12-16,2025-08-05,Operationalized,2648977,284926,115,Exceeded,4,Reference Only,Pattern-010
+PRJ-051,Synthetic Customer 51,Banking,Core Enterprise & zCloud,CICS & MQ,Automation,2024-07-18,2025-04-12,Completed,2384122,1053694,69,Partially Met,4,Reusable,Pattern-011
+PRJ-052,Synthetic Customer 52,Insurance,Network & Edge,SD-WAN,Resilience,2025-02-04,2025-05-25,Completed,5878212,335202,46,Met,5,Reusable,Pattern-012
+PRJ-053,Synthetic Customer 53,Healthcare,Digital Workplace,ServiceNow Workplace,Modernization,2022-08-16,2023-06-22,Completed,5550276,409434,20,Exceeded,4,Reference Only,Pattern-013
+PRJ-054,Synthetic Customer 54,Government,Security & Resiliency,Cyber Recovery,Modernization,2022-01-03,2022-05-25,Completed,5215287,1148385,59,Partially Met,4,Reference Only,Pattern-014
+PRJ-055,Synthetic Customer 55,Retail,"Applications, Data & AI",SAP Transformation,Consolidation,2022-03-08,2022-08-05,Completed,493767,1147147,110,Partially Met,3,Reusable,Pattern-015
+PRJ-056,Synthetic Customer 56,Manufacturing,Cloud,Public Cloud,Cost Optimization,2024-01-22,2024-09-13,Completed,1090464,108175,36,Partially Met,5,Reusable with Conditions,Pattern-016
+PRJ-057,Synthetic Customer 57,Energy & Utilities,Core Enterprise & zCloud,zCloud,Modernization,2023-05-09,2023-12-23,Completed,244233,517346,68,Exceeded,3,Reference Only,Pattern-017
+PRJ-058,Synthetic Customer 58,Telecommunications,Network & Edge,Wireless & LAN,Resilience,2023-08-06,2024-06-13,Completed,3547286,1189430,92,Met,5,Reusable with Conditions,Pattern-018
+PRJ-059,Synthetic Customer 59,Transportation,Digital Workplace,ServiceNow Workplace,Resilience,2024-12-02,2025-11-25,Completed,1258803,1589287,32,Exceeded,4,Reference Only,Pattern-019
+PRJ-060,Synthetic Customer 60,Technology,Security & Resiliency,Zero Trust,Resilience,2022-02-06,2023-03-30,Completed,2883120,324515,49,Exceeded,5,Reference Only,Pattern-020
+PRJ-061,Synthetic Customer 01,Banking,"Applications, Data & AI",MLOps,Consolidation,2024-01-10,2024-10-24,Completed,4657700,1259496,79,Met,3,Reusable,Pattern-021
+PRJ-062,Synthetic Customer 02,Insurance,Cloud,Cloud Operations,Cost Optimization,2022-02-15,2022-08-26,Completed,1883065,307829,52,Exceeded,3,Reference Only,Pattern-022
+PRJ-063,Synthetic Customer 03,Healthcare,Core Enterprise & zCloud,Batch Optimization,Consolidation,2023-04-16,2024-07-07,Completed,1048880,115654,72,Met,3,Reusable,Pattern-023
+PRJ-064,Synthetic Customer 04,Government,Network & Edge,SD-WAN,Resilience,2024-04-05,2024-06-30,Completed,1286255,112450,15,Partially Met,3,Reusable,Pattern-024
+PRJ-065,Synthetic Customer 05,Retail,Digital Workplace,Endpoint Management,Resilience,2023-12-09,2025-04-10,Completed,2176753,928906,6,Exceeded,4,Reusable,Pattern-025
+PRJ-066,Synthetic Customer 06,Manufacturing,Security & Resiliency,Vulnerability Management,Automation,2024-05-05,2025-02-23,Completed,3377151,1012652,103,Partially Met,5,Reusable with Conditions,Pattern-026
+PRJ-067,Synthetic Customer 07,Energy & Utilities,"Applications, Data & AI",Generative AI,Resilience,2025-01-14,2026-07-03,Completed,333949,868303,81,Met,3,Reference Only,Pattern-027
+PRJ-068,Synthetic Customer 08,Telecommunications,Cloud,FinOps,Automation,2023-01-25,2023-09-22,Operationalized,4142599,1382003,78,Partially Met,3,Reference Only,Pattern-028
+PRJ-069,Synthetic Customer 09,Transportation,Core Enterprise & zCloud,z/OS Operations,Consolidation,2023-08-08,2024-09-22,Completed,935246,360414,79,Met,5,Reference Only,Pattern-029
+PRJ-070,Synthetic Customer 10,Technology,Network & Edge,Routing & Switching,Modernization,2023-08-04,2024-03-30,Completed,3960335,1194899,64,Exceeded,5,Reusable,Pattern-030
+PRJ-071,Synthetic Customer 11,Banking,Digital Workplace,Microsoft 365,Cost Optimization,2022-12-23,2024-03-07,Completed,2540335,1189221,85,Partially Met,3,Reusable,Pattern-031
+PRJ-072,Synthetic Customer 12,Insurance,Security & Resiliency,GRC,Modernization,2022-12-10,2023-09-30,Completed,1460875,135426,81,Exceeded,5,Reusable with Conditions,Pattern-032
+PRJ-073,Synthetic Customer 13,Healthcare,"Applications, Data & AI",Integration & APIs,Automation,2024-09-02,2025-10-30,Completed,2431047,1039386,89,Met,5,Reusable,Pattern-033
+PRJ-074,Synthetic Customer 14,Government,Cloud,Cloud Migration,Modernization,2025-01-07,2025-08-08,Completed,3054734,643980,11,Exceeded,5,Reference Only,Pattern-034
+PRJ-075,Synthetic Customer 15,Retail,Core Enterprise & zCloud,z/OS Operations,Modernization,2025-01-23,2025-08-04,Completed,3068391,1769533,46,Exceeded,5,Reusable,Pattern-035
+PRJ-076,Synthetic Customer 16,Manufacturing,Network & Edge,Wireless & LAN,Resilience,2024-06-03,2025-08-04,Completed,1393939,814567,107,Exceeded,3,Reusable with Conditions,Pattern-036
+PRJ-077,Synthetic Customer 17,Energy & Utilities,Digital Workplace,Employee Experience,Consolidation,2022-02-27,2022-10-01,Completed,5763282,720244,9,Met,4,Reference Only,Pattern-037
+PRJ-078,Synthetic Customer 18,Telecommunications,Security & Resiliency,Zero Trust,Automation,2022-04-26,2022-12-29,Operationalized,2766799,1791403,113,Exceeded,3,Reusable,Pattern-038
+PRJ-079,Synthetic Customer 19,Transportation,"Applications, Data & AI",Integration & APIs,Consolidation,2024-03-31,2025-03-16,Completed,388563,1360962,9,Partially Met,4,Reusable,Pattern-039
+PRJ-080,Synthetic Customer 20,Technology,Cloud,Cloud Migration,Modernization,2024-11-23,2025-03-18,Completed,641021,260849,26,Partially Met,5,Reusable with Conditions,Pattern-040
+PRJ-081,Synthetic Customer 21,Banking,Core Enterprise & zCloud,RACF Security,Consolidation,2023-05-07,2023-07-14,Completed,5550011,1378615,33,Exceeded,5,Reusable,Pattern-001
+PRJ-082,Synthetic Customer 22,Insurance,Network & Edge,Wireless & LAN,Cost Optimization,2023-05-06,2023-10-18,Operationalized,1844618,402180,48,Met,5,Reusable,Pattern-002
+PRJ-083,Synthetic Customer 23,Healthcare,Digital Workplace,Workplace Identity,Cost Optimization,2022-12-02,2023-12-20,Completed,890813,203042,92,Partially Met,4,Reusable with Conditions,Pattern-003
+PRJ-084,Synthetic Customer 24,Government,Security & Resiliency,Incident Response,Cost Optimization,2022-01-15,2023-05-20,Completed,1638685,1538498,10,Exceeded,3,Reusable with Conditions,Pattern-004
+PRJ-085,Synthetic Customer 25,Retail,"Applications, Data & AI",Integration & APIs,Cost Optimization,2022-10-07,2023-07-16,Operationalized,4886242,1177502,6,Met,3,Reusable with Conditions,Pattern-005
+PRJ-086,Synthetic Customer 26,Manufacturing,Cloud,Public Cloud,Modernization,2022-01-21,2023-04-20,Completed,3139591,1463136,72,Exceeded,5,Reusable with Conditions,Pattern-006
+PRJ-087,Synthetic Customer 27,Energy & Utilities,Core Enterprise & zCloud,RACF Security,Cost Optimization,2025-02-10,2025-04-29,Operationalized,2842380,1345801,30,Partially Met,4,Reusable,Pattern-007
+PRJ-088,Synthetic Customer 28,Telecommunications,Network & Edge,Wireless & LAN,Automation,2023-07-13,2024-12-01,Completed,185038,935423,47,Partially Met,4,Reference Only,Pattern-008
+PRJ-089,Synthetic Customer 29,Transportation,Digital Workplace,Workplace Automation,Consolidation,2024-02-07,2024-04-24,Operationalized,471503,998613,13,Partially Met,4,Reusable,Pattern-009
+PRJ-090,Synthetic Customer 30,Technology,Security & Resiliency,Incident Response,Cost Optimization,2023-10-19,2024-02-03,Completed,5517479,285864,94,Exceeded,3,Reusable,Pattern-010
+PRJ-091,Synthetic Customer 31,Banking,"Applications, Data & AI",Oracle Modernization,Cost Optimization,2024-10-10,2026-04-01,Completed,2939215,707636,59,Exceeded,4,Reusable,Pattern-011
+PRJ-092,Synthetic Customer 32,Insurance,Cloud,Platform Engineering,Automation,2024-05-27,2025-02-22,Completed,4855594,1296777,42,Met,4,Reference Only,Pattern-012
+PRJ-093,Synthetic Customer 33,Healthcare,Core Enterprise & zCloud,zCloud,Automation,2024-03-27,2025-05-15,Completed,4074161,1620822,115,Met,3,Reusable with Conditions,Pattern-013
+PRJ-094,Synthetic Customer 34,Government,Network & Edge,Data Center Network,Consolidation,2022-10-26,2024-04-09,Operationalized,5271093,729925,27,Partially Met,3,Reference Only,Pattern-014
+PRJ-095,Synthetic Customer 35,Retail,Digital Workplace,Employee Experience,Automation,2023-10-11,2024-02-12,Completed,1794390,324007,87,Exceeded,4,Reference Only,Pattern-015
+PRJ-096,Synthetic Customer 36,Manufacturing,Security & Resiliency,Zero Trust,Automation,2022-03-22,2023-05-27,Completed,4219572,1185294,92,Met,5,Reference Only,Pattern-016
+PRJ-097,Synthetic Customer 37,Energy & Utilities,"Applications, Data & AI",Oracle Modernization,Modernization,2024-01-29,2025-02-24,Completed,3110869,1483851,33,Partially Met,4,Reusable with Conditions,Pattern-017
+PRJ-098,Synthetic Customer 38,Telecommunications,Cloud,Hybrid Cloud,Cost Optimization,2024-08-30,2025-01-02,Completed,2530827,813689,66,Exceeded,5,Reference Only,Pattern-018
+PRJ-099,Synthetic Customer 39,Transportation,Core Enterprise & zCloud,IBM i,Resilience,2023-05-29,2024-10-09,Completed,4685008,1413097,66,Met,5,Reference Only,Pattern-019
+PRJ-100,Synthetic Customer 40,Technology,Network & Edge,Wireless & LAN,Consolidation,2024-09-20,2025-03-20,Completed,4581700,423483,112,Met,4,Reusable,Pattern-020
+PRJ-101,Synthetic Customer 41,Banking,Digital Workplace,ServiceNow Workplace,Consolidation,2023-11-09,2024-02-07,Completed,451710,1049923,11,Partially Met,3,Reusable with Conditions,Pattern-021
+PRJ-102,Synthetic Customer 42,Insurance,Security & Resiliency,Zero Trust,Consolidation,2024-03-11,2024-12-16,Completed,4435630,657283,21,Exceeded,3,Reusable with Conditions,Pattern-022
+PRJ-103,Synthetic Customer 43,Healthcare,"Applications, Data & AI",SAP Transformation,Consolidation,2025-01-20,2025-06-06,Completed,5168979,596077,72,Met,3,Reusable,Pattern-023
+PRJ-104,Synthetic Customer 44,Government,Cloud,Public Cloud,Modernization,2023-07-15,2024-03-02,Completed,2105192,1513370,21,Partially Met,3,Reusable,Pattern-024
+PRJ-105,Synthetic Customer 45,Retail,Core Enterprise & zCloud,IBM i,Resilience,2022-04-20,2023-06-01,Completed,344200,762908,28,Partially Met,5,Reference Only,Pattern-025
+PRJ-106,Synthetic Customer 46,Manufacturing,Network & Edge,Edge & IoT,Cost Optimization,2023-06-21,2024-04-21,Completed,2619367,1741342,27,Partially Met,4,Reference Only,Pattern-026
+PRJ-107,Synthetic Customer 47,Energy & Utilities,Digital Workplace,Virtual Desktop,Automation,2024-02-06,2024-12-22,Completed,531739,1669948,104,Partially Met,5,Reusable,Pattern-027
+PRJ-108,Synthetic Customer 48,Telecommunications,Security & Resiliency,Identity & PAM,Automation,2022-11-02,2024-03-11,Completed,3881555,499296,52,Met,3,Reusable with Conditions,Pattern-028
+PRJ-109,Synthetic Customer 49,Transportation,"Applications, Data & AI",Integration & APIs,Consolidation,2023-01-15,2024-02-25,Completed,3995791,1452206,8,Met,3,Reference Only,Pattern-029
+PRJ-110,Synthetic Customer 50,Technology,Cloud,Public Cloud,Resilience,2023-03-11,2024-04-29,Completed,3555646,567448,66,Partially Met,3,Reusable with Conditions,Pattern-030
+PRJ-111,Synthetic Customer 51,Banking,Core Enterprise & zCloud,Db2 for z/OS,Cost Optimization,2025-01-31,2026-05-22,Completed,2997886,1218473,77,Met,3,Reusable,Pattern-031
+PRJ-112,Synthetic Customer 52,Insurance,Network & Edge,Cloud Networking,Modernization,2024-09-20,2025-05-10,Completed,5799701,708604,94,Exceeded,4,Reusable with Conditions,Pattern-032
+PRJ-113,Synthetic Customer 53,Healthcare,Digital Workplace,ServiceNow Workplace,Automation,2024-01-18,2025-02-03,Completed,2691253,320478,92,Exceeded,3,Reusable,Pattern-033
+PRJ-114,Synthetic Customer 54,Government,Security & Resiliency,GRC,Modernization,2025-02-18,2026-01-17,Completed,2245152,1425085,70,Partially Met,5,Reusable with Conditions,Pattern-034
+PRJ-115,Synthetic Customer 55,Retail,"Applications, Data & AI",MLOps,Cost Optimization,2024-01-06,2024-12-30,Completed,296978,897548,92,Met,3,Reusable,Pattern-035
+PRJ-116,Synthetic Customer 56,Manufacturing,Cloud,Cloud Migration,Automation,2022-02-20,2023-04-21,Operationalized,3882689,1525434,69,Partially Met,5,Reusable with Conditions,Pattern-036
+PRJ-117,Synthetic Customer 57,Energy & Utilities,Core Enterprise & zCloud,z/OS Operations,Modernization,2024-09-08,2025-02-07,Completed,3883224,949168,118,Exceeded,4,Reusable with Conditions,Pattern-037
+PRJ-118,Synthetic Customer 58,Telecommunications,Network & Edge,Cloud Networking,Modernization,2022-05-29,2023-01-09,Completed,1610183,196090,39,Met,4,Reusable with Conditions,Pattern-038
+PRJ-119,Synthetic Customer 59,Transportation,Digital Workplace,Workplace Automation,Resilience,2022-05-02,2023-02-04,Completed,475463,879541,106,Exceeded,3,Reference Only,Pattern-039
+PRJ-120,Synthetic Customer 60,Technology,Security & Resiliency,SOC & SIEM,Consolidation,2023-09-27,2024-10-15,Operationalized,3351553,1175622,74,Exceeded,5,Reusable,Pattern-040
+PRJ-121,Synthetic Customer 01,Banking,"Applications, Data & AI",SAP Transformation,Resilience,2022-03-03,2022-10-12,Completed,2246132,1389008,8,Partially Met,4,Reference Only,Pattern-001
+PRJ-122,Synthetic Customer 02,Insurance,Cloud,DevOps Automation,Resilience,2023-09-03,2025-02-21,Completed,5014499,141429,24,Partially Met,5,Reference Only,Pattern-002
+PRJ-123,Synthetic Customer 03,Healthcare,Core Enterprise & zCloud,zCloud,Consolidation,2022-02-21,2023-01-25,Completed,3490519,174838,8,Exceeded,4,Reference Only,Pattern-003
+PRJ-124,Synthetic Customer 04,Government,Network & Edge,Network Operations,Consolidation,2024-07-17,2025-03-18,Operationalized,5388472,320966,82,Exceeded,4,Reusable,Pattern-004
+PRJ-125,Synthetic Customer 05,Retail,Digital Workplace,Endpoint Management,Cost Optimization,2023-11-27,2024-03-13,Completed,4768894,1086243,8,Met,3,Reusable,Pattern-005
+PRJ-126,Synthetic Customer 06,Manufacturing,Security & Resiliency,Vulnerability Management,Resilience,2022-03-29,2022-06-25,Completed,1604573,807906,17,Met,3,Reusable with Conditions,Pattern-006
+PRJ-127,Synthetic Customer 07,Energy & Utilities,"Applications, Data & AI",Application Modernization,Cost Optimization,2022-04-04,2022-10-11,Completed,2465333,1320556,30,Exceeded,3,Reusable with Conditions,Pattern-007
+PRJ-128,Synthetic Customer 08,Telecommunications,Cloud,Cloud Migration,Resilience,2024-07-28,2024-11-15,Completed,4648175,1584139,43,Exceeded,3,Reusable with Conditions,Pattern-008
+PRJ-129,Synthetic Customer 09,Transportation,Core Enterprise & zCloud,CICS & MQ,Automation,2023-04-02,2024-03-03,Operationalized,4234933,1460919,36,Exceeded,5,Reference Only,Pattern-009
+PRJ-130,Synthetic Customer 10,Technology,Network & Edge,Data Center Network,Resilience,2023-11-13,2024-06-08,Completed,1125641,1240148,6,Partially Met,3,Reusable with Conditions,Pattern-010
+PRJ-131,Synthetic Customer 11,Banking,Digital Workplace,Employee Experience,Consolidation,2022-08-28,2023-04-15,Completed,4421351,500468,59,Met,4,Reusable with Conditions,Pattern-011
+PRJ-132,Synthetic Customer 12,Insurance,Security & Resiliency,Identity & PAM,Consolidation,2023-12-29,2024-04-09,Operationalized,209980,1666669,27,Exceeded,5,Reference Only,Pattern-012
+PRJ-133,Synthetic Customer 13,Healthcare,"Applications, Data & AI",Data Governance,Resilience,2024-12-30,2026-04-06,Operationalized,4833178,1752213,112,Partially Met,5,Reusable with Conditions,Pattern-013
+PRJ-134,Synthetic Customer 14,Government,Cloud,Public Cloud,Automation,2022-05-18,2023-06-06,Completed,481451,544529,49,Exceeded,4,Reusable,Pattern-014
+PRJ-135,Synthetic Customer 15,Retail,Core Enterprise & zCloud,IBM i,Resilience,2024-07-13,2024-12-12,Operationalized,5811560,1423171,90,Exceeded,3,Reusable,Pattern-015
+PRJ-136,Synthetic Customer 16,Manufacturing,Network & Edge,Cloud Networking,Consolidation,2023-01-26,2023-06-10,Completed,5591812,225008,18,Met,5,Reusable,Pattern-016
+PRJ-137,Synthetic Customer 17,Energy & Utilities,Digital Workplace,Teams Collaboration,Cost Optimization,2023-06-13,2023-12-30,Completed,5217205,62893,58,Exceeded,4,Reusable with Conditions,Pattern-017
+PRJ-138,Synthetic Customer 18,Telecommunications,Security & Resiliency,GRC,Consolidation,2024-01-03,2024-06-10,Completed,4486972,884524,37,Exceeded,4,Reference Only,Pattern-018
+PRJ-139,Synthetic Customer 19,Transportation,"Applications, Data & AI",SAP Transformation,Cost Optimization,2023-04-09,2024-04-05,Completed,3944131,1413683,76,Met,3,Reusable,Pattern-019
+PRJ-140,Synthetic Customer 20,Technology,Cloud,Private Cloud,Automation,2023-04-09,2024-01-15,Completed,5669733,308921,111,Met,4,Reference Only,Pattern-020
+PRJ-141,Synthetic Customer 21,Banking,Core Enterprise & zCloud,CICS & MQ,Consolidation,2022-11-16,2023-11-22,Operationalized,710213,1025270,106,Exceeded,5,Reference Only,Pattern-021
+PRJ-142,Synthetic Customer 22,Insurance,Network & Edge,Routing & Switching,Modernization,2024-09-14,2025-09-01,Completed,2271245,417764,106,Exceeded,5,Reference Only,Pattern-022
+PRJ-143,Synthetic Customer 23,Healthcare,Digital Workplace,Microsoft 365,Modernization,2024-08-12,2025-06-12,Completed,5040937,253019,103,Partially Met,5,Reusable,Pattern-023
+PRJ-144,Synthetic Customer 24,Government,Security & Resiliency,Zero Trust,Consolidation,2025-02-28,2026-06-11,Completed,1758994,568680,61,Met,5,Reference Only,Pattern-024
+PRJ-145,Synthetic Customer 25,Retail,"Applications, Data & AI",SAP Transformation,Automation,2025-04-07,2025-08-10,Completed,5548578,328751,53,Partially Met,4,Reference Only,Pattern-025
+PRJ-146,Synthetic Customer 26,Manufacturing,Cloud,Hybrid Cloud,Modernization,2022-06-16,2023-05-19,Completed,781623,900156,119,Met,4,Reference Only,Pattern-026
+PRJ-147,Synthetic Customer 27,Energy & Utilities,Core Enterprise & zCloud,Mainframe Modernization,Consolidation,2022-09-29,2023-10-04,Completed,989638,1447158,69,Exceeded,3,Reusable with Conditions,Pattern-027
+PRJ-148,Synthetic Customer 28,Telecommunications,Network & Edge,Network Automation,Resilience,2022-10-25,2023-09-06,Completed,2377752,57693,40,Partially Met,3,Reusable with Conditions,Pattern-028
+PRJ-149,Synthetic Customer 29,Transportation,Digital Workplace,ServiceNow Workplace,Consolidation,2022-03-21,2023-08-29,Completed,2414341,1292747,81,Exceeded,3,Reusable with Conditions,Pattern-029
+PRJ-150,Synthetic Customer 30,Technology,Security & Resiliency,GRC,Automation,2023-09-26,2025-02-11,Completed,2026276,1715482,83,Met,3,Reusable,Pattern-030

@@ -1,0 +1,101 @@
+﻿Compliance_ID,Standard_or_Regulation,Requirement_Name,Applicable_Practice,Control_Domain,Obligation_Level,Noncompliance_Risk,Lifecycle_Stage,Required_Evidence,Review_Frequency_Days,Status,Policy_Reference
+COMP-001,ISO 27001,ISO 27001 control 1,"Applications, Data & AI",Security,Mandatory,Medium,Build,Evidence Collection,362,Under Review,Policy-001
+COMP-002,SOC 2,SOC 2 control 2,Cloud,Operational Control,Mandatory,Low,Operate,Evidence Collection,195,Active,Policy-002
+COMP-003,PCI DSS,PCI DSS control 3,Core Enterprise & zCloud,Security,Mandatory,High,Build,Approval Gate,97,Active,Policy-003
+COMP-004,HIPAA,HIPAA control 4,Network & Edge,Operational Control,Conditional,Medium,All Phases,Approval Gate,133,Active,Policy-004
+COMP-005,GDPR,GDPR control 5,Digital Workplace,Resilience,Conditional,High,Operate,Architecture Review,169,Active,Policy-005
+COMP-006,NIST CSF,NIST CSF control 6,Security & Resiliency,Operational Control,Mandatory,Low,All Phases,Approval Gate,357,Active,Policy-006
+COMP-007,NERC CIP,NERC CIP control 7,"Applications, Data & AI",Security,Advisory,Medium,Design,Architecture Review,114,Active,Policy-007
+COMP-008,CJIS,CJIS control 8,Cloud,Security,Conditional,High,Design,Evidence Collection,227,Active,Policy-008
+COMP-009,FFIEC,FFIEC control 9,Core Enterprise & zCloud,Privacy,Mandatory,High,Operate,Control Test,162,Active,Policy-009
+COMP-010,SOX,SOX control 10,Network & Edge,Financial Control,Advisory,Low,Operate,Evidence Collection,115,Active,Policy-010
+COMP-011,DORA,DORA control 11,Digital Workplace,Security,Advisory,Low,Operate,Evidence Collection,234,Active,Policy-011
+COMP-012,ISO 22301,ISO 22301 control 12,Security & Resiliency,Operational Control,Advisory,High,All Phases,Approval Gate,360,Active,Policy-012
+COMP-013,ISO 27001,ISO 27001 control 13,"Applications, Data & AI",Resilience,Conditional,Medium,Build,Approval Gate,153,Active,Policy-013
+COMP-014,SOC 2,SOC 2 control 14,Cloud,Security,Advisory,Low,All Phases,Architecture Review,232,Under Review,Policy-014
+COMP-015,PCI DSS,PCI DSS control 15,Core Enterprise & zCloud,Security,Mandatory,Medium,Design,Approval Gate,72,Under Review,Policy-015
+COMP-016,HIPAA,HIPAA control 16,Network & Edge,Privacy,Advisory,High,All Phases,Architecture Review,92,Active,Policy-016
+COMP-017,GDPR,GDPR control 17,Digital Workplace,Operational Control,Conditional,High,Build,Control Test,270,Active,Policy-017
+COMP-018,NIST CSF,NIST CSF control 18,Security & Resiliency,Financial Control,Advisory,High,Design,Evidence Collection,337,Active,Policy-018
+COMP-019,NERC CIP,NERC CIP control 19,"Applications, Data & AI",Operational Control,Mandatory,Medium,Build,Architecture Review,188,Active,Policy-019
+COMP-020,CJIS,CJIS control 20,Cloud,Security,Conditional,High,Build,Control Test,119,Active,Policy-020
+COMP-021,FFIEC,FFIEC control 1,Core Enterprise & zCloud,Security,Conditional,Low,Operate,Approval Gate,279,Active,Policy-021
+COMP-022,SOX,SOX control 2,Network & Edge,Operational Control,Conditional,High,Build,Approval Gate,111,Active,Policy-022
+COMP-023,DORA,DORA control 3,Digital Workplace,Security,Advisory,Medium,Design,Architecture Review,352,Active,Policy-023
+COMP-024,ISO 22301,ISO 22301 control 4,Security & Resiliency,Security,Conditional,Medium,Operate,Approval Gate,148,Active,Policy-024
+COMP-025,ISO 27001,ISO 27001 control 5,"Applications, Data & AI",Resilience,Conditional,Low,Build,Evidence Collection,135,Active,Policy-025
+COMP-026,SOC 2,SOC 2 control 6,Cloud,Operational Control,Mandatory,Medium,Operate,Architecture Review,177,Under Review,Policy-001
+COMP-027,PCI DSS,PCI DSS control 7,Core Enterprise & zCloud,Privacy,Mandatory,Low,Operate,Control Test,62,Active,Policy-002
+COMP-028,HIPAA,HIPAA control 8,Network & Edge,Security,Mandatory,High,All Phases,Approval Gate,327,Active,Policy-003
+COMP-029,GDPR,GDPR control 9,Digital Workplace,Operational Control,Mandatory,High,Design,Architecture Review,227,Active,Policy-004
+COMP-030,NIST CSF,NIST CSF control 10,Security & Resiliency,Resilience,Mandatory,Low,Design,Approval Gate,176,Under Review,Policy-005
+COMP-031,NERC CIP,NERC CIP control 11,"Applications, Data & AI",Resilience,Advisory,Low,Design,Architecture Review,287,Active,Policy-006
+COMP-032,CJIS,CJIS control 12,Cloud,Security,Advisory,High,Design,Evidence Collection,102,Under Review,Policy-007
+COMP-033,FFIEC,FFIEC control 13,Core Enterprise & zCloud,Privacy,Conditional,Medium,Build,Control Test,254,Active,Policy-008
+COMP-034,SOX,SOX control 14,Network & Edge,Operational Control,Mandatory,High,Operate,Control Test,224,Active,Policy-009
+COMP-035,DORA,DORA control 15,Digital Workplace,Financial Control,Conditional,High,Build,Control Test,99,Active,Policy-010
+COMP-036,ISO 22301,ISO 22301 control 16,Security & Resiliency,Security,Conditional,Low,Build,Architecture Review,216,Active,Policy-011
+COMP-037,ISO 27001,ISO 27001 control 17,"Applications, Data & AI",Operational Control,Mandatory,Low,Design,Approval Gate,147,Active,Policy-012
+COMP-038,SOC 2,SOC 2 control 18,Cloud,Operational Control,Advisory,Medium,All Phases,Evidence Collection,91,Under Review,Policy-013
+COMP-039,PCI DSS,PCI DSS control 19,Core Enterprise & zCloud,Privacy,Mandatory,High,All Phases,Approval Gate,65,Under Review,Policy-014
+COMP-040,HIPAA,HIPAA control 20,Network & Edge,Resilience,Advisory,Medium,Build,Architecture Review,360,Active,Policy-015
+COMP-041,GDPR,GDPR control 1,Digital Workplace,Resilience,Advisory,High,Design,Approval Gate,30,Under Review,Policy-016
+COMP-042,NIST CSF,NIST CSF control 2,Security & Resiliency,Operational Control,Conditional,Medium,Design,Architecture Review,281,Active,Policy-017
+COMP-043,NERC CIP,NERC CIP control 3,"Applications, Data & AI",Resilience,Conditional,Low,Design,Approval Gate,221,Active,Policy-018
+COMP-044,CJIS,CJIS control 4,Cloud,Security,Mandatory,High,All Phases,Control Test,262,Active,Policy-019
+COMP-045,FFIEC,FFIEC control 5,Core Enterprise & zCloud,Financial Control,Advisory,Medium,Design,Architecture Review,112,Active,Policy-020
+COMP-046,SOX,SOX control 6,Network & Edge,Financial Control,Mandatory,Medium,Operate,Architecture Review,313,Under Review,Policy-021
+COMP-047,DORA,DORA control 7,Digital Workplace,Resilience,Advisory,Medium,Build,Control Test,91,Active,Policy-022
+COMP-048,ISO 22301,ISO 22301 control 8,Security & Resiliency,Operational Control,Mandatory,Medium,Build,Control Test,228,Active,Policy-023
+COMP-049,ISO 27001,ISO 27001 control 9,"Applications, Data & AI",Financial Control,Advisory,Low,Design,Approval Gate,98,Active,Policy-024
+COMP-050,SOC 2,SOC 2 control 10,Cloud,Resilience,Conditional,Medium,Design,Evidence Collection,103,Under Review,Policy-025
+COMP-051,PCI DSS,PCI DSS control 11,Core Enterprise & zCloud,Security,Advisory,Medium,Operate,Architecture Review,114,Under Review,Policy-001
+COMP-052,HIPAA,HIPAA control 12,Network & Edge,Financial Control,Mandatory,Low,Design,Evidence Collection,353,Under Review,Policy-002
+COMP-053,GDPR,GDPR control 13,Digital Workplace,Financial Control,Mandatory,High,Operate,Approval Gate,52,Under Review,Policy-003
+COMP-054,NIST CSF,NIST CSF control 14,Security & Resiliency,Operational Control,Mandatory,Medium,Design,Approval Gate,116,Under Review,Policy-004
+COMP-055,NERC CIP,NERC CIP control 15,"Applications, Data & AI",Financial Control,Advisory,High,Operate,Control Test,257,Active,Policy-005
+COMP-056,CJIS,CJIS control 16,Cloud,Resilience,Advisory,High,Operate,Approval Gate,190,Active,Policy-006
+COMP-057,FFIEC,FFIEC control 17,Core Enterprise & zCloud,Privacy,Advisory,Low,Operate,Evidence Collection,190,Under Review,Policy-007
+COMP-058,SOX,SOX control 18,Network & Edge,Operational Control,Advisory,Medium,All Phases,Control Test,105,Active,Policy-008
+COMP-059,DORA,DORA control 19,Digital Workplace,Resilience,Mandatory,Medium,Build,Control Test,365,Active,Policy-009
+COMP-060,ISO 22301,ISO 22301 control 20,Security & Resiliency,Operational Control,Advisory,Medium,All Phases,Architecture Review,264,Under Review,Policy-010
+COMP-061,ISO 27001,ISO 27001 control 1,"Applications, Data & AI",Security,Conditional,High,All Phases,Architecture Review,81,Under Review,Policy-011
+COMP-062,SOC 2,SOC 2 control 2,Cloud,Financial Control,Mandatory,Low,Design,Architecture Review,283,Active,Policy-012
+COMP-063,PCI DSS,PCI DSS control 3,Core Enterprise & zCloud,Financial Control,Conditional,Medium,Build,Evidence Collection,123,Active,Policy-013
+COMP-064,HIPAA,HIPAA control 4,Network & Edge,Privacy,Advisory,Low,Build,Control Test,166,Active,Policy-014
+COMP-065,GDPR,GDPR control 5,Digital Workplace,Operational Control,Mandatory,Low,Design,Control Test,362,Active,Policy-015
+COMP-066,NIST CSF,NIST CSF control 6,Security & Resiliency,Operational Control,Advisory,High,Operate,Evidence Collection,68,Under Review,Policy-016
+COMP-067,NERC CIP,NERC CIP control 7,"Applications, Data & AI",Financial Control,Mandatory,Low,Design,Control Test,232,Active,Policy-017
+COMP-068,CJIS,CJIS control 8,Cloud,Security,Mandatory,Medium,Operate,Approval Gate,176,Active,Policy-018
+COMP-069,FFIEC,FFIEC control 9,Core Enterprise & zCloud,Security,Mandatory,High,Build,Control Test,280,Active,Policy-019
+COMP-070,SOX,SOX control 10,Network & Edge,Security,Advisory,Medium,Operate,Architecture Review,333,Under Review,Policy-020
+COMP-071,DORA,DORA control 11,Digital Workplace,Privacy,Advisory,Low,Build,Approval Gate,168,Active,Policy-021
+COMP-072,ISO 22301,ISO 22301 control 12,Security & Resiliency,Security,Advisory,Low,Operate,Evidence Collection,270,Active,Policy-022
+COMP-073,ISO 27001,ISO 27001 control 13,"Applications, Data & AI",Security,Advisory,Low,Build,Evidence Collection,304,Under Review,Policy-023
+COMP-074,SOC 2,SOC 2 control 14,Cloud,Operational Control,Advisory,High,Build,Control Test,198,Active,Policy-024
+COMP-075,PCI DSS,PCI DSS control 15,Core Enterprise & zCloud,Financial Control,Advisory,Low,All Phases,Architecture Review,244,Active,Policy-025
+COMP-076,HIPAA,HIPAA control 16,Network & Edge,Security,Advisory,High,Operate,Control Test,126,Active,Policy-001
+COMP-077,GDPR,GDPR control 17,Digital Workplace,Privacy,Advisory,Medium,Design,Architecture Review,111,Under Review,Policy-002
+COMP-078,NIST CSF,NIST CSF control 18,Security & Resiliency,Resilience,Advisory,Low,Build,Architecture Review,331,Active,Policy-003
+COMP-079,NERC CIP,NERC CIP control 19,"Applications, Data & AI",Resilience,Conditional,Low,Design,Evidence Collection,281,Active,Policy-004
+COMP-080,CJIS,CJIS control 20,Cloud,Operational Control,Advisory,Low,Build,Evidence Collection,333,Under Review,Policy-005
+COMP-081,FFIEC,FFIEC control 1,Core Enterprise & zCloud,Operational Control,Advisory,High,Design,Approval Gate,109,Under Review,Policy-006
+COMP-082,SOX,SOX control 2,Network & Edge,Resilience,Mandatory,High,Operate,Evidence Collection,95,Under Review,Policy-007
+COMP-083,DORA,DORA control 3,Digital Workplace,Privacy,Conditional,Low,All Phases,Evidence Collection,69,Active,Policy-008
+COMP-084,ISO 22301,ISO 22301 control 4,Security & Resiliency,Operational Control,Conditional,High,Build,Control Test,47,Active,Policy-009
+COMP-085,ISO 27001,ISO 27001 control 5,"Applications, Data & AI",Security,Mandatory,Medium,Design,Approval Gate,364,Under Review,Policy-010
+COMP-086,SOC 2,SOC 2 control 6,Cloud,Privacy,Advisory,Low,All Phases,Evidence Collection,146,Active,Policy-011
+COMP-087,PCI DSS,PCI DSS control 7,Core Enterprise & zCloud,Operational Control,Mandatory,High,Operate,Architecture Review,65,Active,Policy-012
+COMP-088,HIPAA,HIPAA control 8,Network & Edge,Financial Control,Advisory,Low,Operate,Architecture Review,195,Active,Policy-013
+COMP-089,GDPR,GDPR control 9,Digital Workplace,Security,Conditional,Medium,All Phases,Evidence Collection,164,Under Review,Policy-014
+COMP-090,NIST CSF,NIST CSF control 10,Security & Resiliency,Resilience,Conditional,High,All Phases,Architecture Review,146,Active,Policy-015
+COMP-091,NERC CIP,NERC CIP control 11,"Applications, Data & AI",Resilience,Advisory,High,Operate,Approval Gate,242,Under Review,Policy-016
+COMP-092,CJIS,CJIS control 12,Cloud,Financial Control,Conditional,High,Build,Architecture Review,277,Active,Policy-017
+COMP-093,FFIEC,FFIEC control 13,Core Enterprise & zCloud,Operational Control,Advisory,Medium,Build,Evidence Collection,94,Active,Policy-018
+COMP-094,SOX,SOX control 14,Network & Edge,Resilience,Advisory,Medium,All Phases,Architecture Review,236,Active,Policy-019
+COMP-095,DORA,DORA control 15,Digital Workplace,Resilience,Conditional,Low,All Phases,Evidence Collection,216,Active,Policy-020
+COMP-096,ISO 22301,ISO 22301 control 16,Security & Resiliency,Privacy,Conditional,Medium,Build,Control Test,262,Active,Policy-021
+COMP-097,ISO 27001,ISO 27001 control 17,"Applications, Data & AI",Privacy,Mandatory,Low,Design,Evidence Collection,151,Under Review,Policy-022
+COMP-098,SOC 2,SOC 2 control 18,Cloud,Resilience,Conditional,Medium,Build,Control Test,249,Active,Policy-023
+COMP-099,PCI DSS,PCI DSS control 19,Core Enterprise & zCloud,Security,Mandatory,Medium,Design,Architecture Review,330,Active,Policy-024
+COMP-100,HIPAA,HIPAA control 20,Network & Edge,Financial Control,Conditional,Medium,All Phases,Evidence Collection,221,Active,Policy-025

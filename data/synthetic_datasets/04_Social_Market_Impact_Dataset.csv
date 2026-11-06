@@ -1,0 +1,181 @@
+﻿Signal_ID,Signal_Date,Signal_Name,Signal_Category,Affected_Practice,Affected_Industry,Region,Customer_Impact_5,Market_Urgency_5,Growth_Potential_5,Impact_Direction,Expected_Time_Horizon,Recommended_Response,Confidence_Score
+MKT-001,2025-11-12,Cloud price change,Social,"Applications, Data & AI",Banking,APAC,5,5,3,Negative,3-12 Months,Create Opportunity,0.58
+MKT-002,2026-08-14,Vendor end of support,Social,Cloud,Insurance,Americas,4,5,5,Negative,3-12 Months,Monitor,0.8
+MKT-003,2026-02-11,Regulatory update,Regulatory,Core Enterprise & zCloud,Healthcare,EMEA,2,2,3,Positive,12+ Months,Offering Update,0.85
+MKT-004,2025-12-02,Security threat trend,Market,Network & Edge,Government,EMEA,2,3,3,Mixed,Immediate,Create Opportunity,0.77
+MKT-005,2026-11-02,Energy cost increase,Social,Digital Workplace,Retail,APAC,2,4,4,Mixed,0-3 Months,Offering Update,0.6
+MKT-006,2026-09-10,AI adoption growth,Technology,Security & Resiliency,Manufacturing,Global,2,2,1,Mixed,3-12 Months,Create Opportunity,0.56
+MKT-007,2026-05-02,Skills shortage,Environmental,"Applications, Data & AI",Energy & Utilities,EMEA,1,4,2,Mixed,Immediate,Monitor,0.94
+MKT-008,2026-05-08,Sustainability target,Regulatory,Cloud,Telecommunications,APAC,3,3,3,Positive,Immediate,Monitor,0.77
+MKT-009,2026-04-20,Data residency change,Technology,Core Enterprise & zCloud,Transportation,India,3,4,5,Positive,Immediate,Monitor,0.83
+MKT-010,2026-07-19,License model change,Regulatory,Network & Edge,Technology,Global,3,4,4,Mixed,Immediate,Monitor,0.62
+MKT-011,2025-12-09,Cloud price change,Market,Digital Workplace,Banking,Global,2,2,5,Positive,Immediate,Risk Review,0.7
+MKT-012,2025-11-05,Vendor end of support,Regulatory,Security & Resiliency,Insurance,Americas,5,2,3,Negative,Immediate,Risk Review,0.78
+MKT-013,2026-05-18,Regulatory update,Market,"Applications, Data & AI",Healthcare,Americas,2,1,4,Mixed,12+ Months,Create Opportunity,0.89
+MKT-014,2025-01-09,Security threat trend,Market,Cloud,Government,EMEA,1,2,4,Positive,0-3 Months,Offering Update,0.79
+MKT-015,2025-02-23,Energy cost increase,Market,Core Enterprise & zCloud,Retail,APAC,1,1,4,Mixed,3-12 Months,Risk Review,0.64
+MKT-016,2026-10-23,AI adoption growth,Technology,Network & Edge,Manufacturing,APAC,3,3,3,Mixed,0-3 Months,Create Opportunity,0.85
+MKT-017,2025-10-27,Skills shortage,Social,Digital Workplace,Energy & Utilities,EMEA,1,4,4,Positive,3-12 Months,Create Opportunity,0.74
+MKT-018,2025-07-22,Sustainability target,Social,Security & Resiliency,Telecommunications,APAC,1,5,4,Positive,Immediate,Offering Update,0.78
+MKT-019,2025-03-29,Data residency change,Market,"Applications, Data & AI",Transportation,India,4,1,2,Negative,0-3 Months,Create Opportunity,0.88
+MKT-020,2025-09-27,License model change,Market,Cloud,Technology,Americas,3,5,5,Negative,12+ Months,Monitor,0.87
+MKT-021,2026-07-13,Cloud price change,Market,Core Enterprise & zCloud,Banking,EMEA,5,1,5,Positive,12+ Months,Create Opportunity,0.62
+MKT-022,2025-06-02,Vendor end of support,Social,Network & Edge,Insurance,India,1,4,1,Positive,0-3 Months,Create Opportunity,0.89
+MKT-023,2025-10-10,Regulatory update,Regulatory,Digital Workplace,Healthcare,Americas,5,1,1,Negative,0-3 Months,Monitor,0.79
+MKT-024,2025-10-11,Security threat trend,Regulatory,Security & Resiliency,Government,APAC,5,2,2,Negative,Immediate,Offering Update,0.56
+MKT-025,2025-05-13,Energy cost increase,Environmental,"Applications, Data & AI",Retail,EMEA,5,4,4,Positive,Immediate,Risk Review,0.76
+MKT-026,2026-04-29,AI adoption growth,Market,Cloud,Manufacturing,Global,4,4,1,Mixed,0-3 Months,Monitor,0.64
+MKT-027,2025-01-20,Skills shortage,Regulatory,Core Enterprise & zCloud,Energy & Utilities,EMEA,1,3,1,Mixed,0-3 Months,Monitor,0.89
+MKT-028,2026-07-29,Sustainability target,Environmental,Network & Edge,Telecommunications,Global,2,4,3,Positive,Immediate,Monitor,0.85
+MKT-029,2025-05-01,Data residency change,Technology,Digital Workplace,Transportation,India,2,3,4,Mixed,Immediate,Offering Update,0.72
+MKT-030,2026-02-08,License model change,Market,Security & Resiliency,Technology,EMEA,3,3,3,Negative,Immediate,Risk Review,0.62
+MKT-031,2025-04-16,Cloud price change,Market,"Applications, Data & AI",Banking,Global,2,1,3,Mixed,Immediate,Create Opportunity,0.97
+MKT-032,2025-06-22,Vendor end of support,Social,Cloud,Insurance,APAC,5,5,3,Negative,12+ Months,Create Opportunity,0.84
+MKT-033,2026-03-16,Regulatory update,Market,Core Enterprise & zCloud,Healthcare,EMEA,1,3,5,Negative,0-3 Months,Monitor,0.59
+MKT-034,2025-03-20,Security threat trend,Technology,Network & Edge,Government,India,3,3,4,Positive,0-3 Months,Risk Review,0.62
+MKT-035,2026-07-27,Energy cost increase,Environmental,Digital Workplace,Retail,EMEA,3,1,5,Negative,0-3 Months,Offering Update,0.86
+MKT-036,2025-12-30,AI adoption growth,Market,Security & Resiliency,Manufacturing,Global,3,4,5,Positive,Immediate,Create Opportunity,0.64
+MKT-037,2025-11-30,Skills shortage,Regulatory,"Applications, Data & AI",Energy & Utilities,Global,2,1,5,Positive,3-12 Months,Monitor,0.98
+MKT-038,2025-08-05,Sustainability target,Social,Cloud,Telecommunications,India,4,1,4,Mixed,0-3 Months,Risk Review,0.74
+MKT-039,2026-07-17,Data residency change,Social,Core Enterprise & zCloud,Transportation,Americas,1,4,2,Negative,0-3 Months,Create Opportunity,0.6
+MKT-040,2026-07-27,License model change,Social,Network & Edge,Technology,APAC,2,5,3,Positive,0-3 Months,Monitor,0.9
+MKT-041,2025-12-04,Cloud price change,Environmental,Digital Workplace,Banking,EMEA,5,1,2,Mixed,Immediate,Offering Update,0.8
+MKT-042,2025-12-12,Vendor end of support,Technology,Security & Resiliency,Insurance,APAC,3,5,4,Mixed,0-3 Months,Create Opportunity,0.59
+MKT-043,2026-04-27,Regulatory update,Regulatory,"Applications, Data & AI",Healthcare,India,2,1,1,Negative,12+ Months,Risk Review,0.9
+MKT-044,2026-05-06,Security threat trend,Environmental,Cloud,Government,EMEA,1,1,5,Positive,Immediate,Create Opportunity,0.72
+MKT-045,2026-08-07,Energy cost increase,Regulatory,Core Enterprise & zCloud,Retail,EMEA,2,2,3,Positive,3-12 Months,Risk Review,0.59
+MKT-046,2026-05-08,AI adoption growth,Social,Network & Edge,Manufacturing,India,2,3,5,Mixed,3-12 Months,Monitor,0.68
+MKT-047,2025-01-17,Skills shortage,Technology,Digital Workplace,Energy & Utilities,Global,5,5,2,Mixed,3-12 Months,Create Opportunity,0.89
+MKT-048,2025-02-02,Sustainability target,Regulatory,Security & Resiliency,Telecommunications,Americas,4,3,4,Positive,Immediate,Offering Update,0.8
+MKT-049,2025-12-30,Data residency change,Social,"Applications, Data & AI",Transportation,Global,5,2,4,Positive,3-12 Months,Offering Update,0.85
+MKT-050,2026-03-14,License model change,Regulatory,Cloud,Technology,EMEA,1,5,4,Negative,Immediate,Offering Update,0.74
+MKT-051,2025-01-15,Cloud price change,Environmental,Core Enterprise & zCloud,Banking,Global,1,5,1,Positive,12+ Months,Create Opportunity,0.68
+MKT-052,2026-02-08,Vendor end of support,Technology,Network & Edge,Insurance,APAC,2,2,3,Mixed,0-3 Months,Create Opportunity,0.68
+MKT-053,2026-09-25,Regulatory update,Market,Digital Workplace,Healthcare,Global,3,3,1,Negative,0-3 Months,Create Opportunity,0.68
+MKT-054,2026-06-07,Security threat trend,Environmental,Security & Resiliency,Government,APAC,3,3,2,Positive,3-12 Months,Offering Update,0.56
+MKT-055,2026-01-11,Energy cost increase,Social,"Applications, Data & AI",Retail,India,2,4,2,Negative,0-3 Months,Risk Review,0.93
+MKT-056,2026-04-18,AI adoption growth,Market,Cloud,Manufacturing,EMEA,1,3,4,Negative,12+ Months,Offering Update,0.77
+MKT-057,2026-04-03,Skills shortage,Social,Core Enterprise & zCloud,Energy & Utilities,APAC,2,1,3,Mixed,3-12 Months,Monitor,0.65
+MKT-058,2025-02-10,Sustainability target,Market,Network & Edge,Telecommunications,EMEA,2,5,3,Mixed,0-3 Months,Offering Update,0.85
+MKT-059,2026-02-15,Data residency change,Regulatory,Digital Workplace,Transportation,EMEA,4,3,1,Mixed,0-3 Months,Monitor,0.77
+MKT-060,2026-10-18,License model change,Environmental,Security & Resiliency,Technology,EMEA,1,5,5,Negative,12+ Months,Monitor,0.66
+MKT-061,2026-01-08,Cloud price change,Social,"Applications, Data & AI",Banking,Americas,4,2,1,Negative,12+ Months,Create Opportunity,0.87
+MKT-062,2026-07-26,Vendor end of support,Technology,Cloud,Insurance,Global,1,1,5,Mixed,Immediate,Offering Update,0.79
+MKT-063,2026-04-05,Regulatory update,Market,Core Enterprise & zCloud,Healthcare,Global,1,2,4,Mixed,0-3 Months,Risk Review,0.94
+MKT-064,2025-06-19,Security threat trend,Environmental,Network & Edge,Government,Global,1,5,4,Positive,0-3 Months,Create Opportunity,0.8
+MKT-065,2025-01-16,Energy cost increase,Environmental,Digital Workplace,Retail,Global,4,1,4,Mixed,Immediate,Offering Update,0.89
+MKT-066,2025-03-29,AI adoption growth,Regulatory,Security & Resiliency,Manufacturing,India,3,4,4,Negative,Immediate,Risk Review,0.76
+MKT-067,2026-06-29,Skills shortage,Market,"Applications, Data & AI",Energy & Utilities,Global,5,3,3,Positive,0-3 Months,Offering Update,0.56
+MKT-068,2025-10-11,Sustainability target,Social,Cloud,Telecommunications,Global,1,5,2,Positive,12+ Months,Risk Review,0.65
+MKT-069,2025-06-03,Data residency change,Technology,Core Enterprise & zCloud,Transportation,India,5,4,2,Positive,3-12 Months,Monitor,0.75
+MKT-070,2026-06-18,License model change,Social,Network & Edge,Technology,EMEA,1,4,3,Mixed,0-3 Months,Risk Review,0.58
+MKT-071,2026-03-09,Cloud price change,Environmental,Digital Workplace,Banking,Global,4,3,4,Positive,0-3 Months,Risk Review,0.77
+MKT-072,2025-09-10,Vendor end of support,Environmental,Security & Resiliency,Insurance,India,3,2,2,Negative,0-3 Months,Create Opportunity,0.56
+MKT-073,2025-03-08,Regulatory update,Technology,"Applications, Data & AI",Healthcare,Americas,1,3,4,Positive,0-3 Months,Offering Update,0.8
+MKT-074,2026-05-15,Security threat trend,Market,Cloud,Government,India,5,4,2,Mixed,3-12 Months,Create Opportunity,0.93
+MKT-075,2025-08-08,Energy cost increase,Social,Core Enterprise & zCloud,Retail,APAC,1,5,3,Mixed,3-12 Months,Offering Update,0.72
+MKT-076,2026-10-01,AI adoption growth,Regulatory,Network & Edge,Manufacturing,Global,1,4,5,Negative,0-3 Months,Monitor,0.94
+MKT-077,2025-09-20,Skills shortage,Environmental,Digital Workplace,Energy & Utilities,Global,4,1,4,Positive,12+ Months,Risk Review,0.6
+MKT-078,2026-05-09,Sustainability target,Technology,Security & Resiliency,Telecommunications,Americas,1,4,5,Negative,3-12 Months,Offering Update,0.91
+MKT-079,2025-02-19,Data residency change,Market,"Applications, Data & AI",Transportation,EMEA,3,1,3,Positive,3-12 Months,Risk Review,0.72
+MKT-080,2025-01-19,License model change,Social,Cloud,Technology,India,3,5,1,Negative,12+ Months,Offering Update,0.67
+MKT-081,2025-01-07,Cloud price change,Market,Core Enterprise & zCloud,Banking,EMEA,3,2,5,Mixed,3-12 Months,Create Opportunity,0.73
+MKT-082,2026-01-08,Vendor end of support,Regulatory,Network & Edge,Insurance,EMEA,2,4,5,Negative,0-3 Months,Offering Update,0.61
+MKT-083,2026-01-29,Regulatory update,Regulatory,Digital Workplace,Healthcare,Americas,3,5,1,Negative,3-12 Months,Create Opportunity,0.74
+MKT-084,2026-06-23,Security threat trend,Market,Security & Resiliency,Government,India,5,2,2,Positive,0-3 Months,Create Opportunity,0.8
+MKT-085,2025-03-06,Energy cost increase,Technology,"Applications, Data & AI",Retail,EMEA,1,4,4,Mixed,Immediate,Create Opportunity,0.83
+MKT-086,2025-08-18,AI adoption growth,Market,Cloud,Manufacturing,Americas,3,2,3,Mixed,Immediate,Create Opportunity,0.75
+MKT-087,2025-07-23,Skills shortage,Regulatory,Core Enterprise & zCloud,Energy & Utilities,Americas,3,3,4,Negative,Immediate,Offering Update,0.88
+MKT-088,2025-08-12,Sustainability target,Regulatory,Network & Edge,Telecommunications,India,1,4,5,Positive,Immediate,Monitor,0.96
+MKT-089,2026-06-10,Data residency change,Market,Digital Workplace,Transportation,EMEA,4,2,4,Negative,3-12 Months,Risk Review,0.84
+MKT-090,2026-02-03,License model change,Environmental,Security & Resiliency,Technology,APAC,5,4,2,Positive,0-3 Months,Risk Review,0.93
+MKT-091,2025-10-05,Cloud price change,Environmental,"Applications, Data & AI",Banking,APAC,3,5,5,Positive,3-12 Months,Risk Review,0.82
+MKT-092,2025-07-25,Vendor end of support,Market,Cloud,Insurance,India,1,1,2,Negative,3-12 Months,Create Opportunity,0.76
+MKT-093,2025-02-15,Regulatory update,Technology,Core Enterprise & zCloud,Healthcare,India,3,1,3,Mixed,12+ Months,Risk Review,0.68
+MKT-094,2026-10-31,Security threat trend,Social,Network & Edge,Government,Americas,5,4,5,Mixed,12+ Months,Risk Review,0.92
+MKT-095,2026-03-16,Energy cost increase,Technology,Digital Workplace,Retail,EMEA,5,5,4,Positive,3-12 Months,Offering Update,0.93
+MKT-096,2025-12-16,AI adoption growth,Regulatory,Security & Resiliency,Manufacturing,Americas,3,4,1,Mixed,3-12 Months,Create Opportunity,0.91
+MKT-097,2026-06-05,Skills shortage,Social,"Applications, Data & AI",Energy & Utilities,EMEA,2,1,3,Mixed,3-12 Months,Risk Review,0.67
+MKT-098,2025-07-12,Sustainability target,Technology,Cloud,Telecommunications,EMEA,1,5,3,Mixed,Immediate,Monitor,0.96
+MKT-099,2025-03-12,Data residency change,Market,Core Enterprise & zCloud,Transportation,EMEA,4,5,1,Mixed,3-12 Months,Offering Update,0.74
+MKT-100,2025-08-10,License model change,Market,Network & Edge,Technology,Americas,2,3,5,Mixed,0-3 Months,Create Opportunity,0.79
+MKT-101,2025-08-03,Cloud price change,Regulatory,Digital Workplace,Banking,Global,1,5,5,Negative,3-12 Months,Risk Review,0.73
+MKT-102,2026-07-04,Vendor end of support,Social,Security & Resiliency,Insurance,India,2,2,4,Mixed,Immediate,Risk Review,0.83
+MKT-103,2026-03-02,Regulatory update,Social,"Applications, Data & AI",Healthcare,Americas,3,3,3,Mixed,12+ Months,Monitor,0.79
+MKT-104,2026-01-11,Security threat trend,Market,Cloud,Government,EMEA,4,3,4,Negative,12+ Months,Monitor,0.83
+MKT-105,2025-02-05,Energy cost increase,Social,Core Enterprise & zCloud,Retail,Global,2,4,1,Negative,12+ Months,Risk Review,0.95
+MKT-106,2026-09-29,AI adoption growth,Regulatory,Network & Edge,Manufacturing,EMEA,4,3,4,Positive,12+ Months,Offering Update,0.73
+MKT-107,2025-06-19,Skills shortage,Social,Digital Workplace,Energy & Utilities,EMEA,4,3,3,Negative,0-3 Months,Create Opportunity,0.78
+MKT-108,2026-07-22,Sustainability target,Technology,Security & Resiliency,Telecommunications,India,2,4,1,Mixed,Immediate,Offering Update,0.96
+MKT-109,2025-12-30,Data residency change,Technology,"Applications, Data & AI",Transportation,Global,2,3,2,Positive,12+ Months,Risk Review,0.56
+MKT-110,2025-08-25,License model change,Market,Cloud,Technology,Global,1,1,2,Positive,3-12 Months,Monitor,0.64
+MKT-111,2026-07-03,Cloud price change,Social,Core Enterprise & zCloud,Banking,APAC,1,5,3,Positive,0-3 Months,Create Opportunity,0.57
+MKT-112,2026-10-31,Vendor end of support,Technology,Network & Edge,Insurance,APAC,3,3,5,Positive,3-12 Months,Monitor,0.94
+MKT-113,2026-01-09,Regulatory update,Environmental,Digital Workplace,Healthcare,APAC,3,4,3,Mixed,12+ Months,Offering Update,0.8
+MKT-114,2025-11-08,Security threat trend,Technology,Security & Resiliency,Government,EMEA,2,5,5,Mixed,0-3 Months,Risk Review,0.87
+MKT-115,2025-09-24,Energy cost increase,Regulatory,"Applications, Data & AI",Retail,APAC,1,2,3,Mixed,3-12 Months,Create Opportunity,0.82
+MKT-116,2026-02-17,AI adoption growth,Technology,Cloud,Manufacturing,EMEA,1,2,1,Negative,12+ Months,Offering Update,0.95
+MKT-117,2025-10-26,Skills shortage,Market,Core Enterprise & zCloud,Energy & Utilities,APAC,4,2,4,Positive,Immediate,Offering Update,0.95
+MKT-118,2026-07-26,Sustainability target,Technology,Network & Edge,Telecommunications,APAC,1,4,2,Positive,0-3 Months,Risk Review,0.91
+MKT-119,2025-05-19,Data residency change,Technology,Digital Workplace,Transportation,APAC,2,2,4,Mixed,Immediate,Offering Update,0.66
+MKT-120,2025-05-29,License model change,Social,Security & Resiliency,Technology,Americas,4,4,1,Positive,0-3 Months,Create Opportunity,0.8
+MKT-121,2025-07-21,Cloud price change,Regulatory,"Applications, Data & AI",Banking,Americas,4,1,4,Negative,12+ Months,Offering Update,0.59
+MKT-122,2025-10-11,Vendor end of support,Regulatory,Cloud,Insurance,Americas,4,2,5,Positive,0-3 Months,Monitor,0.85
+MKT-123,2025-11-28,Regulatory update,Environmental,Core Enterprise & zCloud,Healthcare,APAC,3,3,5,Positive,3-12 Months,Monitor,0.86
+MKT-124,2026-07-20,Security threat trend,Market,Network & Edge,Government,EMEA,5,4,2,Mixed,12+ Months,Create Opportunity,0.75
+MKT-125,2025-06-26,Energy cost increase,Technology,Digital Workplace,Retail,EMEA,4,4,2,Positive,3-12 Months,Risk Review,0.75
+MKT-126,2025-05-05,AI adoption growth,Social,Security & Resiliency,Manufacturing,India,4,3,4,Negative,12+ Months,Create Opportunity,0.83
+MKT-127,2025-11-22,Skills shortage,Social,"Applications, Data & AI",Energy & Utilities,APAC,1,4,1,Negative,Immediate,Risk Review,0.65
+MKT-128,2026-01-11,Sustainability target,Technology,Cloud,Telecommunications,APAC,2,3,2,Negative,Immediate,Monitor,0.67
+MKT-129,2026-09-12,Data residency change,Technology,Core Enterprise & zCloud,Transportation,APAC,4,1,1,Positive,Immediate,Create Opportunity,0.89
+MKT-130,2026-07-10,License model change,Regulatory,Network & Edge,Technology,Global,5,3,4,Mixed,3-12 Months,Risk Review,0.55
+MKT-131,2025-11-03,Cloud price change,Technology,Digital Workplace,Banking,Americas,5,2,4,Negative,3-12 Months,Offering Update,0.69
+MKT-132,2025-10-12,Vendor end of support,Technology,Security & Resiliency,Insurance,Global,4,5,2,Mixed,0-3 Months,Create Opportunity,0.6
+MKT-133,2025-04-18,Regulatory update,Regulatory,"Applications, Data & AI",Healthcare,India,5,2,1,Positive,Immediate,Risk Review,0.88
+MKT-134,2026-10-18,Security threat trend,Environmental,Cloud,Government,India,4,1,3,Positive,Immediate,Offering Update,0.88
+MKT-135,2026-05-11,Energy cost increase,Technology,Core Enterprise & zCloud,Retail,Global,1,5,1,Negative,12+ Months,Create Opportunity,0.69
+MKT-136,2025-10-23,AI adoption growth,Social,Network & Edge,Manufacturing,Global,5,5,3,Mixed,12+ Months,Create Opportunity,0.68
+MKT-137,2025-06-12,Skills shortage,Market,Digital Workplace,Energy & Utilities,Global,4,5,1,Mixed,Immediate,Offering Update,0.93
+MKT-138,2026-07-15,Sustainability target,Social,Security & Resiliency,Telecommunications,Global,1,2,1,Mixed,12+ Months,Risk Review,0.86
+MKT-139,2026-05-20,Data residency change,Technology,"Applications, Data & AI",Transportation,APAC,2,3,1,Negative,3-12 Months,Offering Update,0.64
+MKT-140,2026-07-21,License model change,Market,Cloud,Technology,India,3,2,5,Positive,12+ Months,Risk Review,0.64
+MKT-141,2025-05-02,Cloud price change,Market,Core Enterprise & zCloud,Banking,Global,2,1,1,Negative,Immediate,Create Opportunity,0.63
+MKT-142,2026-10-26,Vendor end of support,Market,Network & Edge,Insurance,India,5,5,4,Mixed,3-12 Months,Monitor,0.9
+MKT-143,2025-03-08,Regulatory update,Regulatory,Digital Workplace,Healthcare,APAC,4,4,5,Positive,3-12 Months,Create Opportunity,0.63
+MKT-144,2025-07-03,Security threat trend,Technology,Security & Resiliency,Government,APAC,3,2,4,Positive,12+ Months,Monitor,0.8
+MKT-145,2025-08-09,Energy cost increase,Regulatory,"Applications, Data & AI",Retail,Global,1,3,2,Mixed,3-12 Months,Risk Review,0.81
+MKT-146,2025-03-01,AI adoption growth,Social,Cloud,Manufacturing,Global,1,1,2,Mixed,Immediate,Create Opportunity,0.84
+MKT-147,2026-09-17,Skills shortage,Regulatory,Core Enterprise & zCloud,Energy & Utilities,India,3,4,2,Positive,12+ Months,Monitor,0.64
+MKT-148,2025-02-25,Sustainability target,Technology,Network & Edge,Telecommunications,APAC,1,5,2,Mixed,0-3 Months,Create Opportunity,0.92
+MKT-149,2025-10-25,Data residency change,Market,Digital Workplace,Transportation,EMEA,5,1,5,Negative,0-3 Months,Create Opportunity,0.74
+MKT-150,2025-11-18,License model change,Environmental,Security & Resiliency,Technology,India,1,3,1,Mixed,3-12 Months,Risk Review,0.69
+MKT-151,2026-10-24,Cloud price change,Regulatory,"Applications, Data & AI",Banking,EMEA,1,4,5,Mixed,0-3 Months,Create Opportunity,0.85
+MKT-152,2025-08-24,Vendor end of support,Regulatory,Cloud,Insurance,APAC,5,5,3,Negative,0-3 Months,Monitor,0.78
+MKT-153,2026-07-29,Regulatory update,Environmental,Core Enterprise & zCloud,Healthcare,Americas,2,1,2,Mixed,0-3 Months,Create Opportunity,0.72
+MKT-154,2026-08-21,Security threat trend,Regulatory,Network & Edge,Government,Americas,3,4,5,Positive,0-3 Months,Monitor,0.56
+MKT-155,2025-08-23,Energy cost increase,Market,Digital Workplace,Retail,India,5,5,2,Positive,Immediate,Risk Review,0.76
+MKT-156,2025-05-26,AI adoption growth,Social,Security & Resiliency,Manufacturing,Americas,2,3,3,Mixed,0-3 Months,Monitor,0.71
+MKT-157,2025-05-09,Skills shortage,Technology,"Applications, Data & AI",Energy & Utilities,EMEA,3,5,2,Mixed,Immediate,Risk Review,0.85
+MKT-158,2025-08-04,Sustainability target,Technology,Cloud,Telecommunications,Americas,2,4,1,Negative,12+ Months,Offering Update,0.77
+MKT-159,2025-10-02,Data residency change,Technology,Core Enterprise & zCloud,Transportation,India,3,4,1,Negative,Immediate,Offering Update,0.7
+MKT-160,2026-09-06,License model change,Market,Network & Edge,Technology,Global,1,3,3,Positive,0-3 Months,Risk Review,0.8
+MKT-161,2026-03-14,Cloud price change,Environmental,Digital Workplace,Banking,APAC,5,2,2,Positive,0-3 Months,Create Opportunity,0.84
+MKT-162,2025-06-21,Vendor end of support,Social,Security & Resiliency,Insurance,APAC,2,1,2,Negative,3-12 Months,Create Opportunity,0.91
+MKT-163,2026-02-24,Regulatory update,Regulatory,"Applications, Data & AI",Healthcare,EMEA,5,5,3,Negative,Immediate,Monitor,0.94
+MKT-164,2025-11-10,Security threat trend,Technology,Cloud,Government,India,3,3,1,Mixed,0-3 Months,Risk Review,0.88
+MKT-165,2025-11-05,Energy cost increase,Environmental,Core Enterprise & zCloud,Retail,APAC,5,4,4,Negative,12+ Months,Risk Review,0.7
+MKT-166,2026-08-03,AI adoption growth,Technology,Network & Edge,Manufacturing,APAC,3,4,3,Negative,12+ Months,Offering Update,0.94
+MKT-167,2025-02-14,Skills shortage,Social,Digital Workplace,Energy & Utilities,Americas,1,1,2,Mixed,Immediate,Risk Review,0.95
+MKT-168,2025-11-04,Sustainability target,Market,Security & Resiliency,Telecommunications,EMEA,2,2,5,Positive,3-12 Months,Monitor,0.73
+MKT-169,2026-02-03,Data residency change,Regulatory,"Applications, Data & AI",Transportation,APAC,1,3,4,Negative,3-12 Months,Create Opportunity,0.6
+MKT-170,2026-07-20,License model change,Social,Cloud,Technology,Global,2,5,5,Mixed,12+ Months,Offering Update,0.71
+MKT-171,2025-11-04,Cloud price change,Regulatory,Core Enterprise & zCloud,Banking,APAC,1,2,4,Negative,0-3 Months,Offering Update,0.8
+MKT-172,2025-10-24,Vendor end of support,Social,Network & Edge,Insurance,Global,3,5,2,Negative,Immediate,Risk Review,0.66
+MKT-173,2025-03-05,Regulatory update,Environmental,Digital Workplace,Healthcare,APAC,4,5,5,Mixed,0-3 Months,Create Opportunity,0.79
+MKT-174,2025-02-18,Security threat trend,Technology,Security & Resiliency,Government,Global,4,2,4,Mixed,3-12 Months,Create Opportunity,0.63
+MKT-175,2025-10-15,Energy cost increase,Technology,"Applications, Data & AI",Retail,Americas,4,5,5,Positive,0-3 Months,Monitor,0.85
+MKT-176,2026-01-03,AI adoption growth,Environmental,Cloud,Manufacturing,India,1,3,2,Positive,Immediate,Risk Review,0.94
+MKT-177,2025-04-01,Skills shortage,Regulatory,Core Enterprise & zCloud,Energy & Utilities,Americas,2,1,1,Positive,3-12 Months,Monitor,0.58
+MKT-178,2025-11-27,Sustainability target,Market,Network & Edge,Telecommunications,India,1,1,3,Positive,Immediate,Risk Review,0.97
+MKT-179,2026-07-11,Data residency change,Regulatory,Digital Workplace,Transportation,APAC,4,2,5,Mixed,12+ Months,Create Opportunity,0.8
+MKT-180,2025-11-14,License model change,Market,Security & Resiliency,Technology,Global,4,4,1,Positive,12+ Months,Risk Review,0.83

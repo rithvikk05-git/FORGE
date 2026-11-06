@@ -1,0 +1,61 @@
+﻿Contract_ID,Customer_Synthetic,Industry,Contract_Name,Start_Date,End_Date,Contract_Status,Contract_Type,Currency,Total_Contract_Value,Data_Classification,Review_Cadence,Governing_Jurisdiction,Account_ID
+CTR-1001,Synthetic Customer 01,Banking,Master Services Agreement 01,2024-01-23,2028-12-17,Active,Hybrid,EUR,15021088,Restricted,Annual,India,ACC-001
+CTR-1002,Synthetic Customer 02,Insurance,Master Services Agreement 02,2024-08-27,2028-06-05,Renewal Due,Hybrid,USD,14513748,Enhanced,Quarterly,United Kingdom,ACC-002
+CTR-1003,Synthetic Customer 03,Healthcare,Master Services Agreement 03,2024-03-10,2026-05-17,Renewal Due,Managed Services,GBP,12273766,Restricted,Quarterly,United Kingdom,ACC-003
+CTR-1004,Synthetic Customer 04,Government,Master Services Agreement 04,2024-05-09,2029-02-20,Active,Hybrid,USD,24703820,Restricted,Annual,United Kingdom,ACC-004
+CTR-1005,Synthetic Customer 05,Retail,Master Services Agreement 05,2024-10-30,2026-12-18,Renewal Due,Consulting,EUR,16136039,Restricted,Quarterly,United States,ACC-005
+CTR-1006,Synthetic Customer 06,Manufacturing,Master Services Agreement 06,2024-09-10,2028-10-06,Active,Consulting,USD,13691279,Standard,Quarterly,Germany,ACC-006
+CTR-1007,Synthetic Customer 07,Energy & Utilities,Master Services Agreement 07,2024-02-28,2027-10-22,Active,Consulting,USD,576277,Standard,Quarterly,United Kingdom,ACC-007
+CTR-1008,Synthetic Customer 08,Telecommunications,Master Services Agreement 08,2024-11-14,2028-09-06,Active,Consulting,USD,1880302,Standard,Quarterly,India,ACC-008
+CTR-1009,Synthetic Customer 09,Transportation,Master Services Agreement 09,2024-12-19,2029-10-11,Active,Managed Services,EUR,19731984,Restricted,Annual,United States,ACC-009
+CTR-1010,Synthetic Customer 10,Technology,Master Services Agreement 10,2024-07-13,2028-02-23,Active,Consulting,GBP,10335506,Restricted,Quarterly,United Kingdom,ACC-010
+CTR-1011,Synthetic Customer 11,Banking,Master Services Agreement 11,2024-01-11,2028-02-12,Active,Managed Services,GBP,6129750,Enhanced,Annual,United States,ACC-011
+CTR-1012,Synthetic Customer 12,Insurance,Master Services Agreement 12,2024-08-09,2026-10-21,Active,Managed Services,GBP,5281362,Enhanced,Quarterly,United States,ACC-012
+CTR-1013,Synthetic Customer 13,Healthcare,Master Services Agreement 13,2024-07-16,2027-10-13,Active,Hybrid,USD,6962364,Enhanced,Annual,United Kingdom,ACC-013
+CTR-1014,Synthetic Customer 14,Government,Master Services Agreement 14,2024-08-26,2029-01-13,Renewal Due,Hybrid,GBP,6977072,Restricted,Annual,United Kingdom,ACC-014
+CTR-1015,Synthetic Customer 15,Retail,Master Services Agreement 15,2024-05-31,2029-03-03,Active,Managed Services,EUR,18955971,Restricted,Annual,Germany,ACC-015
+CTR-1016,Synthetic Customer 16,Manufacturing,Master Services Agreement 16,2024-08-30,2028-09-29,Renewal Due,Consulting,EUR,3185674,Restricted,Quarterly,United States,ACC-016
+CTR-1017,Synthetic Customer 17,Energy & Utilities,Master Services Agreement 17,2024-04-13,2029-02-21,Active,Hybrid,EUR,12149921,Restricted,Quarterly,United Kingdom,ACC-017
+CTR-1018,Synthetic Customer 18,Telecommunications,Master Services Agreement 18,2024-02-18,2026-12-17,Active,Consulting,USD,6434968,Standard,Annual,United States,ACC-018
+CTR-1019,Synthetic Customer 19,Transportation,Master Services Agreement 19,2024-12-13,2027-02-12,Active,Managed Services,EUR,20511018,Enhanced,Annual,Germany,ACC-019
+CTR-1020,Synthetic Customer 20,Technology,Master Services Agreement 20,2024-12-17,2028-06-27,Active,Managed Services,GBP,9991313,Standard,Annual,United Kingdom,ACC-020
+CTR-1021,Synthetic Customer 21,Banking,Master Services Agreement 21,2024-12-29,2028-12-24,Active,Managed Services,EUR,24464389,Restricted,Annual,United Kingdom,ACC-021
+CTR-1022,Synthetic Customer 22,Insurance,Master Services Agreement 22,2024-02-26,2026-05-18,Active,Hybrid,EUR,23742222,Enhanced,Annual,Germany,ACC-022
+CTR-1023,Synthetic Customer 23,Healthcare,Master Services Agreement 23,2024-04-28,2026-09-09,Renewal Due,Hybrid,EUR,8977121,Restricted,Quarterly,Germany,ACC-023
+CTR-1024,Synthetic Customer 24,Government,Master Services Agreement 24,2024-11-30,2028-02-22,Renewal Due,Hybrid,USD,5861114,Standard,Annual,United States,ACC-024
+CTR-1025,Synthetic Customer 25,Retail,Master Services Agreement 25,2024-12-07,2027-03-20,Active,Consulting,GBP,1152837,Enhanced,Annual,United Kingdom,ACC-025
+CTR-1026,Synthetic Customer 26,Manufacturing,Master Services Agreement 26,2024-10-17,2029-04-21,Active,Hybrid,EUR,24646024,Restricted,Quarterly,India,ACC-026
+CTR-1027,Synthetic Customer 27,Energy & Utilities,Master Services Agreement 27,2024-03-02,2029-01-06,Active,Managed Services,USD,13037249,Enhanced,Annual,Germany,ACC-027
+CTR-1028,Synthetic Customer 28,Telecommunications,Master Services Agreement 28,2024-03-09,2029-01-30,Active,Hybrid,EUR,22539023,Enhanced,Quarterly,India,ACC-028
+CTR-1029,Synthetic Customer 29,Transportation,Master Services Agreement 29,2024-08-31,2029-06-30,Active,Consulting,EUR,2099185,Standard,Annual,Germany,ACC-029
+CTR-1030,Synthetic Customer 30,Technology,Master Services Agreement 30,2024-09-15,2026-12-12,Active,Managed Services,GBP,510217,Enhanced,Quarterly,United Kingdom,ACC-030
+CTR-1031,Synthetic Customer 31,Banking,Master Services Agreement 31,2024-08-25,2027-05-10,Renewal Due,Hybrid,USD,22790734,Restricted,Annual,United Kingdom,ACC-031
+CTR-1032,Synthetic Customer 32,Insurance,Master Services Agreement 32,2024-12-23,2029-08-01,Active,Consulting,EUR,7275308,Restricted,Quarterly,India,ACC-032
+CTR-1033,Synthetic Customer 33,Healthcare,Master Services Agreement 33,2024-04-30,2028-07-18,Renewal Due,Hybrid,USD,3347325,Standard,Annual,Germany,ACC-033
+CTR-1034,Synthetic Customer 34,Government,Master Services Agreement 34,2024-09-19,2027-12-16,Renewal Due,Consulting,GBP,20135012,Enhanced,Quarterly,United States,ACC-034
+CTR-1035,Synthetic Customer 35,Retail,Master Services Agreement 35,2024-02-04,2026-06-01,Active,Consulting,USD,14824221,Restricted,Annual,United Kingdom,ACC-035
+CTR-1036,Synthetic Customer 36,Manufacturing,Master Services Agreement 36,2024-11-01,2029-05-16,Active,Consulting,USD,15538784,Enhanced,Annual,Germany,ACC-036
+CTR-1037,Synthetic Customer 37,Energy & Utilities,Master Services Agreement 37,2024-05-13,2028-08-22,Renewal Due,Consulting,EUR,22482670,Standard,Quarterly,United Kingdom,ACC-037
+CTR-1038,Synthetic Customer 38,Telecommunications,Master Services Agreement 38,2024-07-14,2028-07-13,Active,Hybrid,EUR,19308594,Enhanced,Annual,India,ACC-038
+CTR-1039,Synthetic Customer 39,Transportation,Master Services Agreement 39,2024-04-26,2026-09-23,Active,Hybrid,EUR,14464238,Standard,Quarterly,India,ACC-039
+CTR-1040,Synthetic Customer 40,Technology,Master Services Agreement 40,2024-02-14,2026-02-20,Active,Hybrid,USD,14121859,Restricted,Annual,United Kingdom,ACC-040
+CTR-1041,Synthetic Customer 41,Banking,Master Services Agreement 41,2024-08-25,2027-12-27,Active,Consulting,USD,18672957,Standard,Annual,Germany,ACC-041
+CTR-1042,Synthetic Customer 42,Insurance,Master Services Agreement 42,2024-06-28,2027-12-08,Active,Consulting,USD,10115529,Restricted,Annual,India,ACC-042
+CTR-1043,Synthetic Customer 43,Healthcare,Master Services Agreement 43,2024-12-26,2027-05-23,Active,Managed Services,USD,16427271,Standard,Annual,United Kingdom,ACC-043
+CTR-1044,Synthetic Customer 44,Government,Master Services Agreement 44,2024-04-22,2028-10-26,Active,Hybrid,GBP,17494300,Standard,Annual,United States,ACC-044
+CTR-1045,Synthetic Customer 45,Retail,Master Services Agreement 45,2024-12-12,2028-02-22,Active,Managed Services,GBP,7374708,Enhanced,Annual,Germany,ACC-045
+CTR-1046,Synthetic Customer 46,Manufacturing,Master Services Agreement 46,2024-02-24,2028-03-23,Active,Managed Services,USD,20095413,Restricted,Annual,India,ACC-046
+CTR-1047,Synthetic Customer 47,Energy & Utilities,Master Services Agreement 47,2024-07-15,2027-08-26,Active,Consulting,USD,16121688,Standard,Quarterly,United Kingdom,ACC-047
+CTR-1048,Synthetic Customer 48,Telecommunications,Master Services Agreement 48,2024-02-03,2026-10-08,Renewal Due,Managed Services,USD,21416092,Enhanced,Annual,United Kingdom,ACC-048
+CTR-1049,Synthetic Customer 49,Transportation,Master Services Agreement 49,2024-05-09,2028-02-27,Renewal Due,Managed Services,GBP,9486046,Restricted,Quarterly,Germany,ACC-049
+CTR-1050,Synthetic Customer 50,Technology,Master Services Agreement 50,2024-01-27,2026-04-24,Active,Managed Services,GBP,5351558,Enhanced,Annual,Germany,ACC-050
+CTR-1051,Synthetic Customer 51,Banking,Master Services Agreement 51,2024-11-30,2029-08-08,Renewal Due,Hybrid,USD,13218235,Enhanced,Quarterly,Germany,ACC-051
+CTR-1052,Synthetic Customer 52,Insurance,Master Services Agreement 52,2024-06-20,2026-07-11,Active,Hybrid,EUR,3823138,Restricted,Annual,United Kingdom,ACC-052
+CTR-1053,Synthetic Customer 53,Healthcare,Master Services Agreement 53,2024-07-16,2028-12-16,Active,Consulting,EUR,17345115,Enhanced,Annual,United Kingdom,ACC-053
+CTR-1054,Synthetic Customer 54,Government,Master Services Agreement 54,2024-09-12,2028-04-14,Active,Hybrid,GBP,14372759,Enhanced,Quarterly,Germany,ACC-054
+CTR-1055,Synthetic Customer 55,Retail,Master Services Agreement 55,2024-12-24,2026-12-25,Active,Managed Services,EUR,9204999,Enhanced,Quarterly,Germany,ACC-055
+CTR-1056,Synthetic Customer 56,Manufacturing,Master Services Agreement 56,2024-06-11,2027-03-09,Active,Managed Services,EUR,4564690,Restricted,Annual,United Kingdom,ACC-056
+CTR-1057,Synthetic Customer 57,Energy & Utilities,Master Services Agreement 57,2024-12-31,2029-11-13,Renewal Due,Consulting,GBP,12625260,Enhanced,Annual,United Kingdom,ACC-057
+CTR-1058,Synthetic Customer 58,Telecommunications,Master Services Agreement 58,2024-02-22,2028-10-20,Active,Managed Services,USD,9793779,Restricted,Annual,United Kingdom,ACC-058
+CTR-1059,Synthetic Customer 59,Transportation,Master Services Agreement 59,2024-04-02,2026-11-13,Renewal Due,Hybrid,EUR,8591095,Restricted,Quarterly,United Kingdom,ACC-059
+CTR-1060,Synthetic Customer 60,Technology,Master Services Agreement 60,2024-07-08,2027-11-02,Active,Managed Services,GBP,8286998,Restricted,Annual,United States,ACC-060
